@@ -2,5 +2,6 @@
 Terminal-based Library Management System developed in C++.
 
 
-
-<img src="./screenshot.jpg" alt="Description" width="400">
+<p align="center">
+<img src="./screenshot.jpg" alt="Description">
+</p>
