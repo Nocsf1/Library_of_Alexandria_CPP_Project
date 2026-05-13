@@ -1,0 +1,1002 @@
+sep=|
+Title|Author|Year|Category|Genre|ID|Status|Date Added|Borrower Name|Date Borrowed|Due Date
+The Sun Also Rises|Neil Gaiman|2018|Non-Fiction|Health|1|0|2026-01-26|Alice Smith|2026-05-12|2026-05-19
+The Secret History|George RR Martin|1955|Fiction|Mystery|2|0|2026-03-27|Fiona Gallagher|2026-05-12|2026-05-19
+Blood Meridian|George RR Martin|1938|Non-Fiction|Travel|3|1|2026-03-20|||
+Wuthering Heights|Neil Gaiman|1929|Non-Fiction|Philosophy|4|1|2026-05-06|||
+Deep Work|Donna Tartt|1972|Non-Fiction|TrueCrime|5|1|2025-11-06|||
+Good Omens|Aldous Huxley|1987|Non-Fiction|Philosophy|6|0|2026-04-02|Fiona Gallagher|2026-05-12|2026-05-19
+Foundation|Barbara Kingsolver|1974|Non-Fiction|Biography|7|0|2025-10-25|Edward Norton|2026-04-22|2026-04-29
+The Blade Itself|Liane Moriarty|1901|Non-Fiction|Philosophy|8|1|2025-10-10|||
+To Kill a Mockingbird|Ray Bradbury|1958|Fiction|Other|9|0|2025-08-08|Fiona Gallagher|2026-05-12|2026-05-19
+The Blade Itself|Daniel Kahneman|1984|Non-Fiction|Religion|10|0|2026-03-22|Diana Prince|2026-05-12|2026-05-19
+A Tale of Two Cities|Ursula K Le Guin|1969|Non-Fiction|Education|11|1|2026-03-16|||
+The Brothers Karamazov|Taylor Jenkins Reid|1936|Non-Fiction|Psychology|12|0|2025-08-30|Charlie Brown|2026-05-12|2026-05-19
+The Glass Castle|Kurt Vonnegut|1948|Non-Fiction|Education|13|1|2025-05-13|||
+The Name of the Wind|Dan Brown|1934|Fiction|Romance|14|0|2025-06-02|Diana Prince|2026-05-12|2026-05-19
+Alias Grace|Patrick Rothfuss|1997|Fiction|YoungAdult|15|1|2025-10-04|||
+Gone Girl|Dan Brown|1947|Non-Fiction|Science|16|1|2025-12-19|||
+Neverwhere|Cormac McCarthy|1995|Non-Fiction|Religion|17|1|2026-05-11|||
+Deep Work|Taylor Jenkins Reid|1935|Fiction|Action|18|0|2025-06-14|Diana Prince|2026-05-12|2026-05-19
+Life of Pi|George Orwell|1949|Non-Fiction|TrueCrime|19|0|2026-03-31|Alice Smith|2026-05-12|2026-05-19
+Animal Farm|Emily Bronte|1943|Non-Fiction|Autobiography|20|1|2026-03-26|||
+Angels and Demons|CS Lewis|1994|Fiction|Crime|21|1|2026-01-18|||
+Dark Places|Joe Abercrombie|1954|Non-Fiction|History|22|1|2026-03-09|||
+The Kite Runner|Hanya Yanagihara|2015|Fiction|YoungAdult|23|1|2026-01-13|||
+Circe|Stieg Larsson|1972|Fiction|Horror|24|1|2025-08-28|||
+Deep Work|Andy Weir|1917|Non-Fiction|Health|25|1|2026-03-15|||
+The Hunting Party|Homer|2022|Fiction|Thriller|26|1|2025-11-17|||
+Moby Dick|Carl Sagan|1975|Non-Fiction|Philosophy|27|0|2026-03-30|George Costanza|2026-04-22|2026-04-29
+Normal People|Herman Melville|1942|Non-Fiction|Politics|28|1|2025-06-23|||
+The Sun Also Rises|CS Lewis|1941|Non-Fiction|Autobiography|29|0|2026-02-18|Charlie Brown|2026-05-12|2026-05-19
+To Kill a Mockingbird|Tara Westover|1904|Fiction|HistoricalFiction|30|1|2025-05-26|||
+The Book Thief|George RR Martin|1930|Non-Fiction|History|31|1|2026-02-21|||
+Wuthering Heights|Kurt Vonnegut|1941|Fiction|Fantasy|32|1|2026-04-17|||
+Inferno|William Gibson|2002|Fiction|Drama|33|0|2025-08-31|Charlie Brown|2026-05-12|2026-05-19
+The Grapes of Wrath|Gillian Flynn|1923|Non-Fiction|Philosophy|34|0|2025-07-20|Bob Jones|2026-05-12|2026-05-19
+Homo Deus|Alex Michaelides|1968|Fiction|YoungAdult|35|0|2025-07-21|Alice Smith|2026-05-12|2026-05-19
+Stardust|Joe Abercrombie|1971|Non-Fiction|Biography|36|0|2025-11-25|Alice Smith|2026-05-12|2026-05-19
+Wuthering Heights|Herman Melville|1999|Non-Fiction|Autobiography|37|1|2025-05-29|||
+Grit|Joe Abercrombie|1940|Fiction|SciFi|38|1|2026-03-12|||
+The Way of Kings|Sally Rooney|1987|Non-Fiction|Education|39|1|2025-12-13|||
+Good Omens|Ursula K Le Guin|1940|Non-Fiction|Technology|40|0|2026-04-08|Diana Prince|2026-05-12|2026-05-19
+Animal Farm|Ursula K Le Guin|1902|Non-Fiction|Travel|41|0|2025-06-25|Edward Norton|2026-05-12|2026-05-19
+The Silent Patient|Andy Weir|1914|Fiction|Mystery|42|0|2026-03-11|Charlie Brown|2026-05-12|2026-05-19
+Conversations with Friends|Yuval Noah Harari|2015|Fiction|Drama|43|1|2026-02-27|||
+The Goldfinch|Kurt Vonnegut|2017|Non-Fiction|Science|44|1|2026-05-05|||
+Mistborn|Charlotte Bronte|1917|Fiction|HistoricalFiction|45|0|2025-08-24|Fiona Gallagher|2026-05-12|2026-05-19
+Pride and Prejudice|Yann Martel|1927|Fiction|Mystery|46|0|2025-12-16|Diana Prince|2026-05-12|2026-05-19
+Normal People|Aldous Huxley|2024|Fiction|Drama|47|1|2025-12-22|||
+Mistborn|George Orwell|1915|Non-Fiction|History|48|0|2026-03-16|Edward Norton|2026-05-12|2026-05-19
+Blood Meridian|Dan Brown|1975|Non-Fiction|Other|49|1|2025-08-23|||
+The Old Man and the Sea|Patrick Rothfuss|1970|Fiction|Crime|50|0|2026-05-05|Fiona Gallagher|2026-05-12|2026-05-19
+Animal Farm|Charles Dickens|1932|Fiction|Crime|51|0|2026-02-21|Fiona Gallagher|2026-05-12|2026-05-19
+The Lord of the Rings|Alex Michaelides|1971|Non-Fiction|Autobiography|52|0|2025-09-08|Bob Jones|2026-04-22|2026-04-29
+Alias Grace|Ernest Hemingway|1925|Fiction|YoungAdult|53|0|2025-10-22|Charlie Brown|2026-05-12|2026-05-19
+Anansi Boys|George RR Martin|1953|Non-Fiction|Health|54|1|2026-04-27|||
+Stardust|Tara Westover|1931|Fiction|Mystery|55|1|2025-08-05|||
+A Game of Thrones|Richard Powers|1999|Fiction|Mystery|56|1|2025-05-29|||
+The Sirens of Titan|CS Lewis|1999|Fiction|YoungAdult|57|0|2025-08-28|George Costanza|2026-05-12|2026-05-19
+The Seven Husbands of Evelyn Hugo|Gillian Flynn|2011|Fiction|SliceOfLife|58|1|2026-03-18|||
+The Lost Symbol|Cormac McCarthy|1971|Non-Fiction|Autobiography|59|0|2026-04-01|Fiona Gallagher|2026-05-12|2026-05-19
+Hamilton|Joe Abercrombie|1938|Non-Fiction|Philosophy|60|0|2025-09-18|Diana Prince|2026-05-12|2026-05-19
+Stardust|Khaled Hosseini|1986|Non-Fiction|Psychology|61|0|2025-08-06|Alice Smith|2026-05-12|2026-05-19
+Oryx and Crake|Yann Martel|1921|Non-Fiction|Politics|62|1|2025-08-08|||
+Malibu Rising|Khaled Hosseini|1986|Fiction|SciFi|63|1|2025-12-01|||
+The Girl with the Dragon Tattoo|Taylor Jenkins Reid|2021|Fiction|SciFi|64|1|2025-07-25|||
+Malibu Rising|Dan Brown|1927|Fiction|Other|65|1|2026-03-27|||
+A Farewell to Arms|Emily Bronte|2014|Non-Fiction|Science|66|0|2025-08-24|Bob Jones|2026-05-12|2026-05-19
+Artemis|Donna Tartt|1936|Non-Fiction|Religion|67|1|2025-11-09|||
+Breakfast of Champions|Donna Tartt|2024|Non-Fiction|Politics|68|1|2025-12-08|||
+The Odyssey|Charlotte Bronte|1976|Fiction|Drama|69|0|2025-08-28|Charlie Brown|2026-05-12|2026-05-19
+Homo Deus|Andy Weir|1975|Fiction|Romance|70|1|2026-01-19|||
+The Book Thief|Madeline Miller|1936|Non-Fiction|Memoir|71|1|2026-04-29|||
+The Martian|Jane Austen|1978|Fiction|Horror|72|0|2026-01-06|Charlie Brown|2026-04-22|2026-04-29
+The Kite Runner|George Orwell|1948|Non-Fiction|Travel|73|1|2026-04-29|||
+Dark Places|Frank Herbert|1966|Fiction|SliceOfLife|74|0|2025-11-08|Fiona Gallagher|2026-05-12|2026-05-19
+Sharp Objects|Markus Zusak|1905|Non-Fiction|Psychology|75|0|2025-09-27|Bob Jones|2026-05-12|2026-05-19
+A Farewell to Arms|Emily Bronte|1942|Non-Fiction|History|76|1|2026-02-02|||
+The Starless Sea|Emily Bronte|1913|Fiction|Adventure|77|0|2025-12-25|Alice Smith|2026-04-22|2026-04-29
+The Sirens of Titan|Andy Weir|1995|Fiction|SliceOfLife|78|0|2025-11-23|George Costanza|2026-05-12|2026-05-19
+Artemis|Sally Rooney|1991|Fiction|YoungAdult|79|1|2025-06-10|||
+Steve Jobs|Kurt Vonnegut|1979|Fiction|HistoricalFiction|80|0|2026-02-17|Charlie Brown|2026-05-12|2026-05-19
+H Is for Hawk|Liane Moriarty|1905|Non-Fiction|Economics|81|0|2025-05-15|Bob Jones|2026-05-12|2026-05-19
+Hamilton|Leo Tolstoy|1980|Fiction|Adventure|82|0|2026-01-30|Alice Smith|2026-04-22|2026-04-29
+The Lost Symbol|Homer|1972|Fiction|HistoricalFiction|83|0|2025-06-01|Edward Norton|2026-05-12|2026-05-19
+Neuromancer|Donna Tartt|2017|Fiction|Drama|84|0|2026-02-06|Alice Smith|2026-05-12|2026-05-19
+Cats Cradle|Carl Sagan|1966|Fiction|HistoricalFiction|85|1|2025-09-16|||
+The Brothers Karamazov|CS Lewis|1963|Fiction|Romance|86|1|2025-11-30|||
+Dune|Paulo Coelho|1915|Non-Fiction|History|87|0|2025-12-18|Diana Prince|2026-05-12|2026-05-19
+To Kill a Mockingbird|Erin Morgenstern|1917|Fiction|Romance|88|0|2026-04-11|Alice Smith|2026-05-12|2026-05-19
+The Name of the Wind|Jane Austen|1984|Fiction|Thriller|89|1|2025-05-24|||
+The Catcher in the Rye|Cormac McCarthy|1930|Non-Fiction|Memoir|90|1|2025-10-19|||
+The Overstory|Barbara Kingsolver|2016|Non-Fiction|Autobiography|91|0|2026-04-12|Edward Norton|2026-05-12|2026-05-19
+The Da Vinci Code|Donna Tartt|1925|Non-Fiction|Religion|92|0|2025-12-04|Fiona Gallagher|2026-04-22|2026-04-29
+Inferno|Richard Powers|1923|Non-Fiction|Politics|93|1|2026-03-30|||
+Project Hail Mary|Antoine de Saint-Exupery|2006|Non-Fiction|History|94|1|2025-09-30|||
+Brave New World|Taylor Jenkins Reid|1955|Non-Fiction|Science|95|1|2025-09-29|||
+The Iliad|Cormac McCarthy|1907|Non-Fiction|Philosophy|96|1|2025-11-18|||
+Sharp Objects|Daniel Kahneman|1958|Fiction|Other|97|0|2026-04-21|Alice Smith|2026-05-12|2026-05-19
+Angels and Demons|Khaled Hosseini|1906|Non-Fiction|TrueCrime|98|1|2025-06-10|||
+American Gods|Tara Westover|1917|Non-Fiction|Economics|99|1|2025-11-30|||
+The Gene|Margaret Atwood|2006|Non-Fiction|TrueCrime|100|1|2025-11-06|||
+Sharp Objects|Herman Melville|1909|Non-Fiction|Other|101|1|2025-11-20|||
+The Hunting Party|George Orwell|1986|Fiction|Dystopian|102|1|2025-10-27|||
+Wild|JD Salinger|2018|Fiction|SliceOfLife|103|0|2025-12-21|Fiona Gallagher|2026-04-22|2026-04-29
+The Left Hand of Darkness|Joe Abercrombie|2005|Non-Fiction|Psychology|104|0|2025-09-02|Fiona Gallagher|2026-05-12|2026-05-19
+The Kite Runner|Frank Herbert|1931|Non-Fiction|Psychology|105|0|2026-02-15|Edward Norton|2026-05-12|2026-05-19
+Conversations with Friends|Ray Bradbury|1990|Non-Fiction|Technology|106|1|2026-03-12|||
+The Secret History|Carl Sagan|1902|Fiction|Adventure|107|1|2025-07-07|||
+Daisy Jones and The Six|Charles Dickens|2003|Fiction|Romance|108|0|2025-06-16|Alice Smith|2026-05-12|2026-05-19
+The Catcher in the Rye|Ursula K Le Guin|2023|Fiction|SciFi|109|0|2025-11-19|Fiona Gallagher|2026-05-12|2026-05-19
+Dark Places|Tara Westover|1966|Non-Fiction|Biography|110|0|2025-08-13|Diana Prince|2026-05-12|2026-05-19
+Atomic Habits|Stieg Larsson|1939|Non-Fiction|History|111|0|2026-01-10|Diana Prince|2026-05-12|2026-05-19
+Steve Jobs|Richard Powers|2013|Non-Fiction|Psychology|112|0|2025-06-26|Fiona Gallagher|2026-05-12|2026-05-19
+The Little Prince|Herman Melville|1997|Fiction|Thriller|113|1|2025-05-22|||
+The Secret History|Paulo Coelho|1953|Fiction|SciFi|114|0|2026-02-20|Charlie Brown|2026-05-12|2026-05-19
+The Lord of the Rings|Charles Dickens|2020|Non-Fiction|Science|115|0|2025-07-20|Fiona Gallagher|2026-05-12|2026-05-19
+The Silent Patient|Tara Westover|1950|Non-Fiction|Politics|116|1|2025-05-22|||
+A Game of Thrones|Delia Owens|1983|Non-Fiction|Autobiography|117|0|2025-11-24|Diana Prince|2026-04-22|2026-04-29
+Atomic Habits|Hanya Yanagihara|1905|Fiction|Drama|118|1|2025-10-24|||
+Blood Meridian|Dan Brown|1967|Non-Fiction|Health|119|0|2025-11-16|George Costanza|2026-05-12|2026-05-19
+The Guest List|Carl Sagan|1980|Non-Fiction|History|120|1|2026-03-14|||
+The Old Man and the Sea|Jane Austen|1920|Fiction|Crime|121|0|2026-02-01|Alice Smith|2026-05-12|2026-05-19
+Life of Pi|Cormac McCarthy|1952|Non-Fiction|Psychology|122|1|2026-03-02|||
+The Chronicles of Narnia|Richard Powers|1922|Fiction|SliceOfLife|123|1|2025-12-17|||
+Homo Deus|Frank Herbert|1937|Non-Fiction|Health|124|1|2026-02-24|||
+Sharp Objects|William Gibson|1938|Non-Fiction|Psychology|125|1|2026-01-13|||
+Artemis|Cormac McCarthy|1923|Fiction|Action|126|0|2025-06-24|Charlie Brown|2026-05-12|2026-05-19
+Breakfast of Champions|Frank Herbert|1945|Non-Fiction|Economics|127|1|2025-08-31|||
+Dark Places|Carl Sagan|1958|Fiction|Mystery|128|1|2025-06-16|||
+Malibu Rising|George RR Martin|1989|Fiction|Crime|129|1|2026-03-30|||
+Sapiens|Carl Sagan|1998|Fiction|Crime|130|0|2025-11-04|George Costanza|2026-04-22|2026-04-29
+To Kill a Mockingbird|Delia Owens|2003|Non-Fiction|TrueCrime|131|0|2025-11-27|Edward Norton|2026-05-12|2026-05-19
+The Kite Runner|Carl Sagan|1926|Fiction|Dystopian|132|1|2026-02-15|||
+The Way of Kings|Erin Morgenstern|1917|Non-Fiction|Travel|133|0|2025-07-01|Charlie Brown|2026-05-12|2026-05-19
+The Glass Castle|Erin Morgenstern|2003|Non-Fiction|Memoir|134|1|2025-11-13|||
+The Little Prince|Neil Gaiman|1990|Fiction|HistoricalFiction|135|1|2025-09-11|||
+Neverwhere|Erin Morgenstern|1932|Non-Fiction|Other|136|0|2026-04-15|Fiona Gallagher|2026-04-22|2026-04-29
+Fahrenheit 451|Homer|1909|Non-Fiction|Science|137|0|2025-10-16|Alice Smith|2026-05-12|2026-05-19
+Deep Work|Isaac Asimov|2000|Fiction|Romance|138|0|2026-04-26|Diana Prince|2026-05-12|2026-05-19
+The Gene|Charles Dickens|1992|Non-Fiction|Memoir|139|0|2025-09-29|Charlie Brown|2026-05-12|2026-05-19
+The Brothers Karamazov|Antoine de Saint-Exupery|1989|Non-Fiction|History|140|1|2025-11-17|||
+The Hunting Party|Fyodor Dostoevsky|1964|Fiction|Crime|141|0|2025-11-16|Charlie Brown|2026-05-12|2026-05-19
+The Brothers Karamazov|Emily Bronte|1949|Non-Fiction|Health|142|0|2025-11-24|George Costanza|2026-05-12|2026-05-19
+Cats Cradle|Neil Gaiman|1982|Non-Fiction|Philosophy|143|0|2025-05-16|Fiona Gallagher|2026-04-22|2026-04-29
+The Gene|JD Salinger|1978|Non-Fiction|Autobiography|144|1|2026-01-21|||
+The Girl with the Dragon Tattoo|Margaret Atwood|1973|Non-Fiction|Other|145|1|2025-12-24|||
+The Handmaids Tale|Homer|1916|Fiction|YoungAdult|146|1|2025-12-30|||
+Atomic Habits|Andy Weir|2015|Non-Fiction|Politics|147|0|2026-02-10|Alice Smith|2026-05-12|2026-05-19
+Neuromancer|Yann Martel|1991|Fiction|SliceOfLife|148|1|2025-07-08|||
+Pride and Prejudice|George RR Martin|1916|Non-Fiction|Religion|149|0|2025-10-26|Bob Jones|2026-05-12|2026-05-19
+Elon Musk|Ray Bradbury|1970|Non-Fiction|History|150|1|2025-09-15|||
+To Kill a Mockingbird|Taylor Jenkins Reid|1990|Fiction|Fantasy|151|1|2025-07-07|||
+American Gods|Herman Melville|1923|Fiction|YoungAdult|152|0|2025-06-29|Fiona Gallagher|2026-04-22|2026-04-29
+Life of Pi|John Steinbeck|1965|Fiction|Horror|153|1|2025-05-16|||
+The Hobbit|Markus Zusak|1951|Fiction|Drama|154|1|2025-07-13|||
+Wild|Homer|1981|Non-Fiction|Education|155|1|2025-08-07|||
+Moby Dick|Markus Zusak|1951|Non-Fiction|Biography|156|1|2025-06-04|||
+War and Peace|Patrick Rothfuss|1998|Non-Fiction|Economics|157|1|2025-05-26|||
+The Lost Symbol|Neil Gaiman|1924|Fiction|Romance|158|1|2025-06-10|||
+Dune|Brandon Sanderson|2012|Non-Fiction|Travel|159|1|2025-10-12|||
+Blood Meridian|CS Lewis|1948|Fiction|Fantasy|160|1|2025-10-21|||
+Moby Dick|James Clear|1933|Non-Fiction|TrueCrime|161|0|2026-03-20|Diana Prince|2026-05-12|2026-05-19
+Blood Meridian|Daniel Kahneman|2022|Non-Fiction|Education|162|0|2026-02-19|Diana Prince|2026-05-12|2026-05-19
+The Odyssey|Madeline Miller|1904|Non-Fiction|Biography|163|0|2026-03-09|Charlie Brown|2026-04-22|2026-04-29
+The Book Thief|Donna Tartt|1948|Non-Fiction|Religion|164|1|2025-07-19|||
+A Little Life|Erin Morgenstern|1903|Non-Fiction|Travel|165|1|2025-08-18|||
+The Song of Achilles|Erin Morgenstern|1928|Fiction|Thriller|166|1|2026-04-23|||
+H Is for Hawk|George RR Martin|1966|Non-Fiction|Philosophy|167|0|2025-09-18|Alice Smith|2026-05-12|2026-05-19
+Inferno|Ursula K Le Guin|2010|Non-Fiction|TrueCrime|168|1|2025-11-07|||
+The Song of Achilles|JRR Tolkien|1909|Non-Fiction|Economics|169|1|2025-07-18|||
+The Road|John Steinbeck|1973|Fiction|Thriller|170|0|2025-06-28|Fiona Gallagher|2026-05-12|2026-05-19
+The Secret History|George RR Martin|1986|Fiction|Mystery|171|0|2025-06-17|Fiona Gallagher|2026-05-12|2026-05-19
+The Goldfinch|Ernest Hemingway|1967|Non-Fiction|History|172|0|2025-12-27|Fiona Gallagher|2026-05-12|2026-05-19
+The Way of Kings|George Orwell|1900|Non-Fiction|Religion|173|1|2025-06-10|||
+Good Omens|Carl Sagan|1993|Non-Fiction|Technology|174|1|2025-09-16|||
+Fahrenheit 451|Carl Sagan|2021|Non-Fiction|Technology|175|1|2025-09-26|||
+Educated|Madeline Miller|2005|Fiction|Fantasy|176|0|2025-07-21|Fiona Gallagher|2026-05-12|2026-05-19
+Anansi Boys|Walter Isaacson|1949|Non-Fiction|Politics|177|1|2025-09-08|||
+Dark Places|Fyodor Dostoevsky|1974|Fiction|SliceOfLife|178|0|2025-07-29|Fiona Gallagher|2026-05-12|2026-05-19
+The Grapes of Wrath|Isaac Asimov|1926|Fiction|SciFi|179|1|2025-12-21|||
+The Iliad|Markus Zusak|1969|Non-Fiction|Religion|180|1|2026-04-11|||
+The Alchemist|Neil Gaiman|1987|Non-Fiction|Psychology|181|1|2025-08-30|||
+Stardust|Erin Morgenstern|1981|Fiction|SliceOfLife|182|1|2026-03-01|||
+Steve Jobs|Charlotte Bronte|1964|Fiction|Other|183|1|2026-03-19|||
+Quiet|Richard Powers|1984|Fiction|Thriller|184|0|2025-11-16|Alice Smith|2026-05-12|2026-05-19
+The Way of Kings|Homer|1916|Fiction|Crime|185|0|2026-03-27|Bob Jones|2026-05-12|2026-05-19
+The Night Circus|Charlotte Bronte|1904|Fiction|Dystopian|186|0|2025-08-11|George Costanza|2026-05-12|2026-05-19
+Project Hail Mary|Donna Tartt|2006|Non-Fiction|Other|187|1|2026-03-13|||
+To Kill a Mockingbird|Liane Moriarty|2007|Non-Fiction|Economics|188|1|2025-07-08|||
+Anansi Boys|Joe Abercrombie|1953|Fiction|HistoricalFiction|189|1|2025-10-19|||
+Breakfast of Champions|Margaret Atwood|1929|Fiction|Romance|190|1|2025-12-27|||
+Life of Pi|Sally Rooney|1957|Fiction|Crime|191|1|2026-01-07|||
+A Game of Thrones|William Gibson|1954|Fiction|Mystery|192|0|2025-06-06|George Costanza|2026-05-12|2026-05-19
+Malibu Rising|Neil Gaiman|1916|Fiction|Action|193|1|2025-09-30|||
+Life of Pi|Neil Gaiman|2021|Non-Fiction|Science|194|1|2025-10-07|||
+The Brothers Karamazov|George Orwell|1995|Fiction|Romance|195|1|2025-12-15|||
+The Paris Apartment|John Steinbeck|1929|Non-Fiction|TrueCrime|196|1|2025-12-29|||
+The Girl with the Dragon Tattoo|Paulo Coelho|2020|Fiction|Crime|197|1|2026-03-18|||
+Blood Meridian|Aldous Huxley|2000|Fiction|Dystopian|198|1|2025-11-21|||
+The Blind Assassin|Sally Rooney|1929|Fiction|YoungAdult|199|1|2026-02-06|||
+Origin|Donna Tartt|1990|Fiction|Action|200|1|2026-01-21|||
+Deep Work|Walter Isaacson|2002|Fiction|Thriller|201|1|2025-05-26|||
+Elon Musk|Ernest Hemingway|1949|Fiction|Crime|202|0|2025-08-28|Edward Norton|2026-05-12|2026-05-19
+The Martian|Taylor Jenkins Reid|1939|Non-Fiction|Science|203|1|2026-03-26|||
+Brave New World|Patrick Rothfuss|2005|Non-Fiction|TrueCrime|204|0|2025-06-10|Edward Norton|2026-05-12|2026-05-19
+Fahrenheit 451|Tara Westover|1948|Fiction|Adventure|205|0|2025-08-30|Alice Smith|2026-05-12|2026-05-19
+Thinking Fast and Slow|Ernest Hemingway|1970|Non-Fiction|Other|206|1|2026-03-31|||
+Animal Farm|Donna Tartt|2002|Non-Fiction|Psychology|207|0|2026-01-30|Bob Jones|2026-05-12|2026-05-19
+Normal People|Yuval Noah Harari|1959|Non-Fiction|Health|208|1|2025-07-04|||
+Stardust|Harper Lee|1990|Non-Fiction|Health|209|0|2026-02-03|Diana Prince|2026-05-12|2026-05-19
+H Is for Hawk|Alex Michaelides|1909|Non-Fiction|Science|210|1|2026-01-12|||
+The Blind Assassin|John Steinbeck|1942|Fiction|Romance|211|1|2026-01-10|||
+The Hobbit|John Steinbeck|1911|Fiction|SciFi|212|0|2025-12-10|Edward Norton|2026-04-22|2026-04-29
+Pride and Prejudice|Alex Michaelides|1919|Non-Fiction|Memoir|213|0|2026-04-02|Fiona Gallagher|2026-05-12|2026-05-19
+Life of Pi|Paulo Coelho|1915|Fiction|Other|214|1|2026-04-27|||
+Hamilton|Antoine de Saint-Exupery|1987|Non-Fiction|Philosophy|215|0|2026-04-12|George Costanza|2026-05-12|2026-05-19
+The Goldfinch|Isaac Asimov|1915|Fiction|Other|216|0|2026-01-07|George Costanza|2026-05-12|2026-05-19
+The Old Man and the Sea|Ernest Hemingway|2002|Non-Fiction|Technology|217|1|2026-03-09|||
+A Tale of Two Cities|Andy Weir|1931|Fiction|Thriller|218|1|2026-02-28|||
+Dune|Ray Bradbury|1912|Fiction|Other|219|1|2026-01-05|||
+Sapiens|Neil Gaiman|1924|Non-Fiction|Education|220|1|2025-12-11|||
+Deep Work|Walter Isaacson|1910|Non-Fiction|Economics|221|1|2025-12-14|||
+Blood Meridian|Erin Morgenstern|2000|Non-Fiction|Biography|222|1|2025-12-03|||
+The Name of the Wind|Neil Gaiman|1942|Fiction|HistoricalFiction|223|1|2025-08-08|||
+Malibu Rising|Emily Bronte|1916|Non-Fiction|Politics|224|1|2025-05-13|||
+The Paris Apartment|Alex Michaelides|1936|Fiction|Action|225|0|2025-11-23|Charlie Brown|2026-05-12|2026-05-19
+Deep Work|Tara Westover|1932|Non-Fiction|History|226|1|2026-01-09|||
+The Name of the Wind|Tara Westover|2012|Fiction|HistoricalFiction|227|1|2025-06-14|||
+Slaughterhouse-Five|Brandon Sanderson|1951|Fiction|Dystopian|228|0|2025-09-04|Diana Prince|2026-05-12|2026-05-19
+Educated|Barbara Kingsolver|1913|Non-Fiction|Education|229|1|2025-08-19|||
+Quiet|Andy Weir|2000|Non-Fiction|Politics|230|1|2025-05-17|||
+Angels and Demons|George Orwell|1904|Fiction|Crime|231|1|2025-08-19|||
+Big Little Lies|Joe Abercrombie|2011|Non-Fiction|Autobiography|232|0|2026-05-05|Edward Norton|2026-05-12|2026-05-19
+The Sun Also Rises|Herman Melville|1910|Non-Fiction|TrueCrime|233|1|2025-10-23|||
+Foundation|Paulo Coelho|1976|Fiction|Romance|234|1|2026-02-22|||
+Anansi Boys|George Orwell|1960|Fiction|Dystopian|235|0|2026-04-12|Alice Smith|2026-04-22|2026-04-29
+Fahrenheit 451|Margaret Atwood|1960|Non-Fiction|Other|236|1|2025-12-19|||
+Artemis|Paulo Coelho|2021|Fiction|Adventure|237|1|2026-04-10|||
+Slaughterhouse-Five|James Clear|1949|Fiction|Dystopian|238|1|2026-03-23|||
+The Paris Apartment|Sally Rooney|2019|Non-Fiction|Politics|239|1|2026-03-23|||
+Jane Eyre|Hanya Yanagihara|1994|Non-Fiction|TrueCrime|240|0|2025-10-04|Bob Jones|2026-04-22|2026-04-29
+The Lost Symbol|Ernest Hemingway|2005|Non-Fiction|Memoir|241|1|2025-11-05|||
+Inferno|Kurt Vonnegut|1940|Fiction|HistoricalFiction|242|0|2025-11-25|Edward Norton|2026-04-22|2026-04-29
+Alias Grace|Charlotte Bronte|1958|Non-Fiction|Travel|243|1|2026-02-16|||
+The Alchemist|Sally Rooney|1945|Non-Fiction|Politics|244|0|2025-06-06|Diana Prince|2026-05-12|2026-05-19
+Malibu Rising|Yann Martel|1902|Non-Fiction|Economics|245|1|2026-01-19|||
+The Left Hand of Darkness|Herman Melville|2019|Fiction|Mystery|246|1|2025-08-22|||
+The Alchemist|Barbara Kingsolver|1964|Fiction|Crime|247|0|2025-08-13|Edward Norton|2026-05-12|2026-05-19
+Foundation|Homer|2003|Fiction|Action|248|1|2025-10-24|||
+Stardust|Herman Melville|1925|Fiction|SliceOfLife|249|0|2025-06-15|Bob Jones|2026-05-12|2026-05-19
+Atomic Habits|Herman Melville|1903|Fiction|SciFi|250|1|2025-08-31|||
+Origin|Leo Tolstoy|1992|Fiction|SciFi|251|1|2026-01-14|||
+Fahrenheit 451|Sally Rooney|1971|Fiction|Horror|252|1|2026-03-01|||
+The Catcher in the Rye|Delia Owens|1944|Fiction|Fantasy|253|0|2025-06-21|Charlie Brown|2026-05-12|2026-05-19
+The Poisonwood Bible|George Orwell|1957|Fiction|Romance|254|0|2025-09-29|Fiona Gallagher|2026-05-12|2026-05-19
+Circe|Donna Tartt|1983|Fiction|Dystopian|255|1|2026-05-04|||
+Neverwhere|Margaret Atwood|1914|Fiction|Romance|256|0|2026-02-15|Alice Smith|2026-04-22|2026-04-29
+Moby Dick|JD Salinger|2014|Non-Fiction|Economics|257|1|2025-08-23|||
+Neuromancer|Andy Weir|1974|Fiction|SliceOfLife|258|0|2025-12-06|Diana Prince|2026-05-12|2026-05-19
+Anna Karenina|JRR Tolkien|1915|Non-Fiction|Religion|259|0|2025-06-05|George Costanza|2026-05-12|2026-05-19
+Good Omens|Emily Bronte|1969|Non-Fiction|Travel|260|0|2026-02-15|Bob Jones|2026-05-12|2026-05-19
+The Lost Symbol|Joe Abercrombie|1926|Fiction|Crime|261|0|2025-09-30|George Costanza|2026-05-12|2026-05-19
+A Tale of Two Cities|George RR Martin|1909|Fiction|SliceOfLife|262|1|2026-02-04|||
+Anansi Boys|Aldous Huxley|2000|Non-Fiction|TrueCrime|263|1|2025-10-10|||
+The Old Man and the Sea|Brandon Sanderson|1908|Fiction|Dystopian|264|1|2025-11-01|||
+Circe|Jane Austen|1994|Fiction|Drama|265|0|2025-08-29|Fiona Gallagher|2026-04-22|2026-04-29
+The Silent Patient|Herman Melville|1975|Fiction|Crime|266|1|2025-08-07|||
+Homo Deus|Antoine de Saint-Exupery|1920|Fiction|Action|267|1|2026-02-26|||
+The Song of Achilles|Khaled Hosseini|1941|Non-Fiction|TrueCrime|268|0|2025-08-03|Edward Norton|2026-05-12|2026-05-19
+A Tale of Two Cities|Aldous Huxley|1939|Non-Fiction|Technology|269|1|2025-11-27|||
+The Da Vinci Code|Dan Brown|2004|Fiction|Romance|270|1|2025-11-21|||
+Dune|Lucy Foley|1903|Non-Fiction|Philosophy|271|1|2025-12-15|||
+The Martian|Daniel Kahneman|1903|Non-Fiction|Education|272|1|2026-05-10|||
+The Silent Patient|Ursula K Le Guin|2016|Fiction|Drama|273|1|2025-06-26|||
+Dune|Markus Zusak|1957|Fiction|Fantasy|274|0|2026-04-26|George Costanza|2026-05-12|2026-05-19
+A Farewell to Arms|JD Salinger|1955|Fiction|Dystopian|275|0|2025-08-31|Alice Smith|2026-05-12|2026-05-19
+The Road|Walter Isaacson|1966|Fiction|Other|276|1|2025-05-23|||
+Quiet|Herman Melville|2020|Non-Fiction|Politics|277|0|2026-01-02|Charlie Brown|2026-04-22|2026-04-29
+The Song of Achilles|Patrick Rothfuss|1926|Non-Fiction|History|278|0|2025-09-13|Alice Smith|2026-04-22|2026-04-29
+The Song of Achilles|F. Scott Fitzgerald|1963|Fiction|Mystery|279|0|2025-08-18|Alice Smith|2026-05-12|2026-05-19
+The Catcher in the Rye|Stieg Larsson|2007|Fiction|Romance|280|0|2026-02-07|George Costanza|2026-05-12|2026-05-19
+The Silent Patient|Lucy Foley|1990|Fiction|Mystery|281|0|2025-07-28|Alice Smith|2026-05-12|2026-05-19
+Quiet|Andy Weir|1907|Non-Fiction|Psychology|282|1|2025-09-22|||
+The Chronicles of Narnia|Alex Michaelides|1985|Non-Fiction|History|283|1|2026-02-20|||
+Conversations with Friends|Emily Bronte|1914|Non-Fiction|Science|284|1|2026-03-06|||
+Stardust|Homer|2014|Fiction|Adventure|285|0|2025-06-04|George Costanza|2026-05-12|2026-05-19
+The Girl with the Dragon Tattoo|Richard Powers|2006|Fiction|Adventure|286|1|2025-11-20|||
+Wuthering Heights|Sally Rooney|2014|Non-Fiction|Other|287|1|2025-06-10|||
+Inferno|Herman Melville|1939|Non-Fiction|Philosophy|288|1|2025-09-04|||
+Angels and Demons|Richard Powers|1993|Fiction|YoungAdult|289|1|2026-02-26|||
+Anna Karenina|Patrick Rothfuss|1939|Fiction|SliceOfLife|290|0|2025-05-30|George Costanza|2026-04-22|2026-04-29
+American Gods|Tara Westover|1991|Non-Fiction|Health|291|0|2026-03-03|Edward Norton|2026-04-22|2026-04-29
+The Grapes of Wrath|George RR Martin|1923|Fiction|YoungAdult|292|0|2025-10-04|Diana Prince|2026-05-12|2026-05-19
+The Starless Sea|JRR Tolkien|2010|Non-Fiction|Health|293|0|2025-05-16|Bob Jones|2026-04-22|2026-04-29
+The Goldfinch|Herman Melville|1975|Non-Fiction|Religion|294|0|2026-01-04|Alice Smith|2026-05-12|2026-05-19
+Normal People|Ray Bradbury|1932|Non-Fiction|Health|295|1|2025-09-07|||
+The Da Vinci Code|F. Scott Fitzgerald|1989|Fiction|Horror|296|0|2025-12-12|Fiona Gallagher|2026-05-12|2026-05-19
+The Martian|George Orwell|1950|Non-Fiction|Economics|297|1|2025-06-10|||
+Stardust|Emily Bronte|1979|Fiction|SciFi|298|1|2025-10-22|||
+The Lord of the Rings|Daniel Kahneman|2014|Fiction|Other|299|1|2026-01-07|||
+The Martian|Delia Owens|1995|Non-Fiction|Science|300|1|2026-04-16|||
+Thinking Fast and Slow|Yann Martel|1971|Fiction|Mystery|301|1|2025-05-26|||
+1984|Margaret Atwood|2018|Fiction|Romance|302|0|2025-06-26|Edward Norton|2026-05-12|2026-05-19
+Thinking Fast and Slow|Lucy Foley|1917|Fiction|Crime|303|1|2025-12-11|||
+The Old Man and the Sea|Harper Lee|2002|Fiction|Dystopian|304|1|2025-07-29|||
+Anna Karenina|Jane Austen|2015|Fiction|Horror|305|1|2026-01-17|||
+Anna Karenina|Lucy Foley|1986|Fiction|Action|306|0|2026-03-08|Alice Smith|2026-05-12|2026-05-19
+Educated|Aldous Huxley|1957|Fiction|Dystopian|307|1|2025-07-30|||
+The Poisonwood Bible|Liane Moriarty|1940|Non-Fiction|Memoir|308|1|2025-06-20|||
+Origin|Charles Dickens|2017|Non-Fiction|Technology|309|1|2025-10-01|||
+The Sirens of Titan|Stieg Larsson|1931|Non-Fiction|Psychology|310|1|2026-04-02|||
+Angels and Demons|F. Scott Fitzgerald|1988|Non-Fiction|Biography|311|0|2026-04-07|Alice Smith|2026-05-12|2026-05-19
+Alias Grace|Carl Sagan|2009|Non-Fiction|Memoir|312|0|2026-03-11|Fiona Gallagher|2026-05-12|2026-05-19
+The Martian|Isaac Asimov|1948|Non-Fiction|Travel|313|1|2025-09-06|||
+The Gene|Madeline Miller|1936|Non-Fiction|History|314|1|2025-10-10|||
+The Poisonwood Bible|Emily Bronte|1907|Non-Fiction|Religion|315|0|2026-01-10|Charlie Brown|2026-05-12|2026-05-19
+The Glass Castle|Dan Brown|1910|Non-Fiction|Travel|316|1|2025-12-24|||
+The Starless Sea|Yann Martel|2015|Fiction|Thriller|317|1|2025-07-10|||
+Sapiens|Ursula K Le Guin|1906|Non-Fiction|Science|318|1|2025-08-23|||
+Brave New World|Tara Westover|1977|Non-Fiction|Psychology|319|1|2025-08-25|||
+Gone Girl|Emily Bronte|1985|Fiction|HistoricalFiction|320|1|2026-02-07|||
+The Odyssey|Charles Dickens|1908|Non-Fiction|Autobiography|321|1|2026-02-01|||
+The Kite Runner|Hanya Yanagihara|2006|Fiction|HistoricalFiction|322|1|2025-10-13|||
+Wuthering Heights|Margaret Atwood|1965|Fiction|Thriller|323|0|2025-06-16|Edward Norton|2026-05-12|2026-05-19
+Malibu Rising|Delia Owens|1937|Non-Fiction|Philosophy|324|1|2026-04-26|||
+The Lost Symbol|Liane Moriarty|2019|Non-Fiction|Politics|325|1|2025-11-16|||
+Good Omens|George Orwell|1912|Fiction|Adventure|326|0|2025-08-26|George Costanza|2026-05-12|2026-05-19
+The Great Gatsby|Homer|2003|Non-Fiction|Memoir|327|0|2025-06-09|Edward Norton|2026-05-12|2026-05-19
+Elon Musk|James Clear|1972|Non-Fiction|Other|328|1|2025-07-27|||
+The Girl with the Dragon Tattoo|Taylor Jenkins Reid|1983|Non-Fiction|Technology|329|0|2026-01-20|Fiona Gallagher|2026-05-12|2026-05-19
+The Name of the Wind|George RR Martin|1950|Non-Fiction|Biography|330|0|2026-01-13|Bob Jones|2026-05-12|2026-05-19
+The Gene|George RR Martin|1985|Non-Fiction|Health|331|1|2026-03-03|||
+A Game of Thrones|Jane Austen|1986|Fiction|Horror|332|1|2025-12-03|||
+Animal Farm|Walter Isaacson|2022|Non-Fiction|Memoir|333|1|2026-02-03|||
+Sapiens|Homer|1911|Fiction|Drama|334|0|2025-12-03|Charlie Brown|2026-04-22|2026-04-29
+Circe|Fyodor Dostoevsky|1955|Fiction|Dystopian|335|0|2026-04-02|Edward Norton|2026-04-22|2026-04-29
+Moby Dick|Fyodor Dostoevsky|1936|Fiction|Romance|336|1|2026-02-21|||
+Slaughterhouse-Five|Paulo Coelho|2017|Non-Fiction|Education|337|1|2026-04-04|||
+Alias Grace|Daniel Kahneman|1917|Fiction|Crime|338|1|2026-02-08|||
+Jane Eyre|Aldous Huxley|1906|Fiction|Adventure|339|0|2025-06-08|Diana Prince|2026-05-12|2026-05-19
+The Lost Symbol|Brandon Sanderson|1903|Fiction|Other|340|0|2025-08-26|Fiona Gallagher|2026-05-12|2026-05-19
+Quiet|JD Salinger|1906|Fiction|Thriller|341|1|2025-09-24|||
+Neverwhere|Gillian Flynn|1918|Fiction|HistoricalFiction|342|0|2026-02-01|Fiona Gallagher|2026-05-12|2026-05-19
+The Odyssey|Homer|2018|Non-Fiction|Philosophy|343|1|2026-02-14|||
+The Catcher in the Rye|Antoine de Saint-Exupery|1973|Non-Fiction|Religion|344|1|2025-07-19|||
+Dune|Antoine de Saint-Exupery|1946|Non-Fiction|Education|345|0|2026-03-27|Edward Norton|2026-05-12|2026-05-19
+The Catcher in the Rye|Yann Martel|1949|Fiction|Thriller|346|1|2026-05-01|||
+The Chronicles of Narnia|F. Scott Fitzgerald|2006|Fiction|Thriller|347|1|2025-11-03|||
+Neverwhere|Markus Zusak|2008|Fiction|YoungAdult|348|0|2025-05-20|Edward Norton|2026-05-12|2026-05-19
+The Da Vinci Code|Harper Lee|1969|Non-Fiction|Autobiography|349|0|2026-01-29|Edward Norton|2026-05-12|2026-05-19
+The Grapes of Wrath|Sally Rooney|1979|Non-Fiction|Economics|350|0|2026-04-01|Charlie Brown|2026-05-12|2026-05-19
+Oryx and Crake|Daniel Kahneman|1924|Fiction|Dystopian|351|1|2025-12-14|||
+The Way of Kings|Kurt Vonnegut|1977|Non-Fiction|Education|352|0|2025-07-28|Alice Smith|2026-05-12|2026-05-19
+The Overstory|CS Lewis|1976|Fiction|SciFi|353|1|2025-12-24|||
+Animal Farm|Margaret Atwood|1972|Non-Fiction|TrueCrime|354|0|2025-10-12|Bob Jones|2026-05-12|2026-05-19
+The Great Gatsby|JRR Tolkien|1954|Fiction|YoungAdult|355|1|2025-11-29|||
+Conversations with Friends|George RR Martin|1944|Non-Fiction|Politics|356|0|2026-04-07|George Costanza|2026-05-12|2026-05-19
+The Kite Runner|Erin Morgenstern|2012|Fiction|Romance|357|1|2025-07-11|||
+Cats Cradle|Liane Moriarty|1945|Fiction|Romance|358|1|2025-10-22|||
+The Handmaids Tale|Leo Tolstoy|1929|Fiction|Drama|359|1|2025-07-08|||
+The Maidens|Tara Westover|1990|Non-Fiction|Travel|360|0|2026-03-13|Alice Smith|2026-05-12|2026-05-19
+A Game of Thrones|Daniel Kahneman|1999|Fiction|Thriller|361|1|2026-02-08|||
+Sharp Objects|Alex Michaelides|2014|Fiction|Thriller|362|1|2025-10-11|||
+Oryx and Crake|Ursula K Le Guin|2005|Fiction|Other|363|0|2025-05-12|Diana Prince|2026-05-12|2026-05-19
+Malibu Rising|Yann Martel|2018|Non-Fiction|Autobiography|364|0|2025-07-01|Diana Prince|2026-05-12|2026-05-19
+The Silent Patient|Antoine de Saint-Exupery|1944|Fiction|SciFi|365|1|2025-10-03|||
+Dune|Madeline Miller|1912|Non-Fiction|Politics|366|1|2026-01-01|||
+Life of Pi|Kurt Vonnegut|1962|Non-Fiction|Politics|367|1|2025-05-14|||
+The Poisonwood Bible|George Orwell|1937|Non-Fiction|Science|368|1|2025-08-28|||
+Foundation|Joe Abercrombie|2015|Fiction|SciFi|369|0|2026-04-07|Bob Jones|2026-05-12|2026-05-19
+The Silent Patient|Yuval Noah Harari|1945|Fiction|Romance|370|1|2025-06-24|||
+Oryx and Crake|Gillian Flynn|1993|Fiction|Dystopian|371|1|2025-10-02|||
+Gone Girl|Daniel Kahneman|2007|Non-Fiction|Memoir|372|1|2025-12-04|||
+The Catcher in the Rye|Charlotte Bronte|1995|Non-Fiction|Health|373|0|2025-06-17|Diana Prince|2026-05-12|2026-05-19
+The Secret History|F. Scott Fitzgerald|1916|Non-Fiction|Religion|374|1|2026-01-09|||
+Malibu Rising|Frank Herbert|1942|Fiction|Crime|375|1|2025-09-28|||
+Gone Girl|Lucy Foley|1903|Fiction|Dystopian|376|1|2026-04-14|||
+Gone Girl|Taylor Jenkins Reid|1949|Non-Fiction|TrueCrime|377|1|2026-04-18|||
+Fahrenheit 451|Hanya Yanagihara|1930|Non-Fiction|Economics|378|1|2025-08-15|||
+The Silent Patient|Ernest Hemingway|2018|Non-Fiction|Biography|379|1|2026-04-29|||
+The Girl with the Dragon Tattoo|Alex Michaelides|1923|Fiction|Fantasy|380|0|2026-05-04|George Costanza|2026-05-12|2026-05-19
+The Blind Assassin|Homer|1933|Non-Fiction|Economics|381|1|2025-08-19|||
+The Way of Kings|Markus Zusak|2023|Non-Fiction|Religion|382|1|2026-03-22|||
+The Silent Patient|Aldous Huxley|1934|Non-Fiction|Other|383|1|2025-09-08|||
+The Lost Symbol|Neil Gaiman|1920|Fiction|SciFi|384|1|2026-02-09|||
+Angels and Demons|Patrick Rothfuss|1949|Fiction|Crime|385|1|2025-10-22|||
+Oryx and Crake|Harper Lee|1933|Fiction|Other|386|1|2026-02-02|||
+The Overstory|Margaret Atwood|2015|Non-Fiction|History|387|1|2026-05-12|||
+Inferno|James Clear|1976|Fiction|SliceOfLife|388|1|2025-09-20|||
+Where the Crawdads Sing|Harper Lee|1913|Fiction|YoungAdult|389|1|2026-05-05|||
+Stardust|Liane Moriarty|1946|Fiction|Mystery|390|0|2025-10-14|Diana Prince|2026-05-12|2026-05-19
+The Paris Apartment|Sally Rooney|1974|Non-Fiction|Philosophy|391|1|2026-05-02|||
+The Grapes of Wrath|Ursula K Le Guin|1937|Fiction|Romance|392|1|2025-11-20|||
+Thinking Fast and Slow|Leo Tolstoy|1956|Fiction|YoungAdult|393|1|2025-07-20|||
+The Road|Charles Dickens|2017|Fiction|YoungAdult|394|1|2025-07-17|||
+The Kite Runner|George Orwell|2010|Non-Fiction|Psychology|395|1|2025-11-06|||
+The Catcher in the Rye|George Orwell|1914|Non-Fiction|History|396|1|2025-11-09|||
+Alias Grace|Patrick Rothfuss|1912|Fiction|Mystery|397|0|2025-07-16|Diana Prince|2026-04-22|2026-04-29
+The Poisonwood Bible|Fyodor Dostoevsky|2015|Non-Fiction|TrueCrime|398|1|2026-01-06|||
+The Chronicles of Narnia|Homer|1955|Fiction|SliceOfLife|399|0|2026-04-13|Alice Smith|2026-05-12|2026-05-19
+Malibu Rising|Khaled Hosseini|2019|Fiction|Adventure|400|0|2025-07-28|Fiona Gallagher|2026-05-12|2026-05-19
+Gone Girl|Hanya Yanagihara|1942|Fiction|SciFi|401|0|2025-06-27|Charlie Brown|2026-05-12|2026-05-19
+The Chronicles of Narnia|Donna Tartt|1910|Fiction|Adventure|402|1|2026-04-02|||
+Anna Karenina|Harper Lee|1951|Fiction|YoungAdult|403|1|2025-05-12|||
+The Maidens|Paulo Coelho|1944|Non-Fiction|Religion|404|1|2026-01-29|||
+The Sun Also Rises|Erin Morgenstern|1919|Non-Fiction|Economics|405|1|2026-04-05|||
+Gone Girl|Walter Isaacson|1968|Non-Fiction|Technology|406|0|2026-05-07|Edward Norton|2026-05-12|2026-05-19
+Steve Jobs|Fyodor Dostoevsky|1989|Fiction|YoungAdult|407|1|2025-08-17|||
+Jane Eyre|Antoine de Saint-Exupery|1953|Fiction|Action|408|0|2025-10-13|Charlie Brown|2026-05-12|2026-05-19
+The Hobbit|Brandon Sanderson|1930|Fiction|SliceOfLife|409|1|2025-10-03|||
+Alias Grace|Stieg Larsson|1933|Fiction|Drama|410|1|2025-11-27|||
+The Blind Assassin|Madeline Miller|1953|Non-Fiction|Travel|411|1|2026-02-06|||
+The Maidens|Madeline Miller|1966|Fiction|Dystopian|412|0|2025-07-31|Fiona Gallagher|2026-05-12|2026-05-19
+The Blade Itself|Hanya Yanagihara|1917|Non-Fiction|Travel|413|1|2025-08-23|||
+Jane Eyre|Lucy Foley|1965|Non-Fiction|Other|414|1|2026-01-25|||
+The Maidens|JRR Tolkien|1917|Fiction|Romance|415|0|2025-10-27|George Costanza|2026-04-22|2026-04-29
+Great Expectations|Brandon Sanderson|2024|Fiction|Dystopian|416|0|2025-09-21|Edward Norton|2026-05-12|2026-05-19
+The Catcher in the Rye|Neil Gaiman|1922|Fiction|Crime|417|0|2025-09-13|Alice Smith|2026-05-12|2026-05-19
+The Way of Kings|Dan Brown|2005|Non-Fiction|Education|418|1|2025-06-29|||
+The Little Prince|JRR Tolkien|1960|Fiction|SliceOfLife|419|1|2025-11-23|||
+Stardust|Charlotte Bronte|2005|Fiction|HistoricalFiction|420|1|2025-10-14|||
+Jane Eyre|Tara Westover|1911|Non-Fiction|Memoir|421|0|2025-10-15|Diana Prince|2026-05-12|2026-05-19
+The Seven Husbands of Evelyn Hugo|Leo Tolstoy|1904|Non-Fiction|TrueCrime|422|0|2025-07-02|Alice Smith|2026-05-12|2026-05-19
+Oryx and Crake|Alex Michaelides|2022|Non-Fiction|Religion|423|1|2025-07-02|||
+Quiet|Erin Morgenstern|1979|Fiction|Other|424|0|2026-02-13|Bob Jones|2026-04-22|2026-04-29
+Jane Eyre|Delia Owens|1984|Fiction|Adventure|425|1|2026-02-15|||
+Life of Pi|CS Lewis|2011|Non-Fiction|History|426|0|2025-10-25|Edward Norton|2026-04-22|2026-04-29
+Moby Dick|Sally Rooney|1988|Fiction|Horror|427|1|2025-09-09|||
+The Little Prince|Aldous Huxley|2014|Non-Fiction|Philosophy|428|0|2025-06-24|Fiona Gallagher|2026-05-12|2026-05-19
+The Blade Itself|Tara Westover|1941|Non-Fiction|Economics|429|0|2026-04-24|George Costanza|2026-04-24|2026-05-01
+The Kite Runner|Sally Rooney|1913|Non-Fiction|Other|430|1|2026-04-22|||
+Oryx and Crake|JRR Tolkien|1901|Fiction|Adventure|431|1|2025-07-11|||
+Moby Dick|George Orwell|2013|Fiction|Thriller|432|0|2025-09-30|Diana Prince|2026-05-12|2026-05-19
+The Iliad|Madeline Miller|2024|Fiction|Mystery|433|1|2025-07-25|||
+Blood Meridian|Markus Zusak|1949|Fiction|Dystopian|434|1|2025-08-16|||
+For Whom the Bell Tolls|Joe Abercrombie|1954|Non-Fiction|History|435|0|2026-01-24|Edward Norton|2026-05-12|2026-05-19
+Brave New World|Donna Tartt|1922|Non-Fiction|Politics|436|1|2026-03-23|||
+The Girl with the Dragon Tattoo|Margaret Atwood|1985|Fiction|Drama|437|1|2025-08-03|||
+Malibu Rising|Ursula K Le Guin|1991|Non-Fiction|Autobiography|438|1|2026-04-11|||
+Moby Dick|JD Salinger|1960|Non-Fiction|Technology|439|1|2026-01-18|||
+The Chronicles of Narnia|Ray Bradbury|2019|Non-Fiction|Autobiography|440|1|2025-11-23|||
+The Kite Runner|Jane Austen|1942|Fiction|SciFi|441|1|2025-09-12|||
+Where the Crawdads Sing|Liane Moriarty|1954|Non-Fiction|Economics|442|1|2025-06-29|||
+No Country for Old Men|Homer|1932|Non-Fiction|Politics|443|1|2026-05-11|||
+Hamilton|Frank Herbert|2009|Non-Fiction|History|444|0|2026-02-14|Fiona Gallagher|2026-05-12|2026-05-19
+A Farewell to Arms|Yann Martel|1995|Fiction|HistoricalFiction|445|0|2026-04-13|George Costanza|2026-05-12|2026-05-19
+The Little Prince|Antoine de Saint-Exupery|2003|Fiction|YoungAdult|446|0|2025-05-16|Alice Smith|2026-05-12|2026-05-19
+Origin|Stieg Larsson|1901|Fiction|YoungAdult|447|0|2026-02-09|Charlie Brown|2026-05-12|2026-05-19
+The Girl with the Dragon Tattoo|Delia Owens|2014|Fiction|SciFi|448|1|2025-07-06|||
+Oryx and Crake|Ray Bradbury|1982|Fiction|Adventure|449|0|2025-12-05|Alice Smith|2026-05-12|2026-05-19
+A Little Life|Sally Rooney|1999|Fiction|Horror|450|0|2026-04-23|Fiona Gallagher|2026-05-12|2026-05-19
+The Silent Patient|Taylor Jenkins Reid|1973|Non-Fiction|Philosophy|451|0|2025-11-09|Alice Smith|2026-05-12|2026-05-19
+The Left Hand of Darkness|Patrick Rothfuss|2019|Non-Fiction|TrueCrime|452|1|2025-10-09|||
+To Kill a Mockingbird|Alex Michaelides|1952|Non-Fiction|Education|453|0|2025-10-08|Bob Jones|2026-05-12|2026-05-19
+Wild|Tara Westover|1993|Fiction|Other|454|1|2025-11-18|||
+Anna Karenina|Barbara Kingsolver|1938|Non-Fiction|Health|455|1|2025-07-03|||
+Anansi Boys|Cormac McCarthy|1971|Non-Fiction|Autobiography|456|1|2025-09-29|||
+The Left Hand of Darkness|Fyodor Dostoevsky|2018|Non-Fiction|Economics|457|1|2025-11-07|||
+The Road|Delia Owens|1982|Fiction|Dystopian|458|0|2025-11-05|Fiona Gallagher|2026-05-12|2026-05-19
+Wild|Walter Isaacson|1999|Non-Fiction|Health|459|1|2025-08-17|||
+Dark Places|JD Salinger|2007|Fiction|SciFi|460|1|2025-12-26|||
+Animal Farm|Walter Isaacson|1956|Non-Fiction|Philosophy|461|1|2026-01-28|||
+Good Omens|Jane Austen|1903|Non-Fiction|Other|462|0|2025-10-12|George Costanza|2026-05-12|2026-05-19
+Moby Dick|Kurt Vonnegut|1978|Fiction|Mystery|463|1|2026-01-30|||
+The Blade Itself|James Clear|1977|Fiction|Mystery|464|1|2026-02-13|||
+Great Expectations|Gillian Flynn|2012|Non-Fiction|Technology|465|1|2025-12-14|||
+The Way of Kings|Paulo Coelho|1999|Fiction|SliceOfLife|466|1|2026-02-21|||
+A Little Life|CS Lewis|1989|Fiction|HistoricalFiction|467|1|2026-03-07|||
+Educated|Ursula K Le Guin|1946|Non-Fiction|Health|468|1|2025-08-26|||
+Malibu Rising|Emily Bronte|1901|Non-Fiction|Memoir|469|0|2025-10-05|Alice Smith|2026-04-22|2026-04-29
+Mistborn|Frank Herbert|1910|Non-Fiction|Memoir|470|1|2026-05-03|||
+Anansi Boys|F. Scott Fitzgerald|1998|Non-Fiction|Religion|471|0|2025-07-07|Alice Smith|2026-05-12|2026-05-19
+The Sirens of Titan|Cormac McCarthy|1931|Fiction|HistoricalFiction|472|1|2025-10-01|||
+The Paris Apartment|Yann Martel|1932|Non-Fiction|Psychology|473|0|2026-05-04|Alice Smith|2026-05-04|2026-05-11
+The Left Hand of Darkness|Harper Lee|1942|Fiction|Thriller|474|1|2026-03-26|||
+Artemis|Yuval Noah Harari|2006|Fiction|Thriller|475|0|2025-11-15|Alice Smith|2026-04-22|2026-04-29
+Anansi Boys|Tara Westover|1999|Non-Fiction|Education|476|1|2026-04-16|||
+The Way of Kings|Dan Brown|1905|Fiction|Drama|477|1|2025-08-31|||
+The Girl with the Dragon Tattoo|Joe Abercrombie|1976|Non-Fiction|Health|478|1|2026-01-07|||
+The Road|Charlotte Bronte|1930|Fiction|HistoricalFiction|479|1|2026-03-18|||
+Life of Pi|Gillian Flynn|1996|Fiction|Drama|480|1|2026-02-01|||
+The Secret History|Dan Brown|2004|Fiction|Action|481|0|2026-01-30|Charlie Brown|2026-05-12|2026-05-19
+The Maidens|Ursula K Le Guin|1966|Non-Fiction|Education|482|1|2026-05-02|||
+The Alchemist|Frank Herbert|2017|Non-Fiction|Health|483|1|2026-01-06|||
+Wuthering Heights|Taylor Jenkins Reid|1995|Non-Fiction|Philosophy|484|1|2026-04-16|||
+The Iliad|Herman Melville|2023|Fiction|Mystery|485|1|2025-10-23|||
+The Hobbit|George RR Martin|1954|Fiction|SliceOfLife|486|0|2025-07-06|Edward Norton|2026-05-12|2026-05-19
+The Sun Also Rises|Donna Tartt|2001|Fiction|Action|487|1|2026-04-07|||
+The Alchemist|Herman Melville|2011|Non-Fiction|Economics|488|1|2026-02-03|||
+Foundation|Liane Moriarty|1942|Non-Fiction|Autobiography|489|1|2026-04-28|||
+The Martian|Leo Tolstoy|1975|Fiction|Horror|490|0|2025-08-02|George Costanza|2026-05-12|2026-05-19
+The Glass Castle|Sally Rooney|1952|Non-Fiction|History|491|0|2025-11-09|Edward Norton|2026-05-12|2026-05-19
+Great Expectations|Fyodor Dostoevsky|2020|Non-Fiction|Biography|492|1|2025-09-15|||
+The Girl with the Dragon Tattoo|Gillian Flynn|1901|Fiction|Action|493|0|2025-07-22|Fiona Gallagher|2026-05-12|2026-05-19
+Good Omens|Tara Westover|1978|Fiction|Thriller|494|0|2026-04-07|Alice Smith|2026-05-12|2026-05-19
+American Gods|Ernest Hemingway|2010|Fiction|Romance|495|0|2025-10-01|Fiona Gallagher|2026-05-12|2026-05-19
+Jane Eyre|George Orwell|1915|Non-Fiction|Memoir|496|0|2025-05-20|George Costanza|2026-05-12|2026-05-19
+The Grapes of Wrath|Ernest Hemingway|1914|Fiction|Action|497|1|2025-07-24|||
+The Hunting Party|Jane Austen|1964|Fiction|Crime|498|1|2025-09-18|||
+The Blade Itself|George RR Martin|1933|Fiction|YoungAdult|499|1|2025-11-18|||
+The Secret History|Frank Herbert|1910|Non-Fiction|Science|500|1|2025-12-06|||
+A Farewell to Arms|George RR Martin|1966|Non-Fiction|Education|501|1|2025-11-11|||
+The Grapes of Wrath|Ernest Hemingway|2017|Fiction|SciFi|502|0|2025-09-25|Alice Smith|2026-05-12|2026-05-19
+Gone Girl|Alex Michaelides|1993|Fiction|YoungAdult|503|0|2026-04-17|Charlie Brown|2026-05-12|2026-05-19
+The Martian|John Steinbeck|2023|Non-Fiction|Memoir|504|1|2026-03-24|||
+Hamilton|Andy Weir|1908|Non-Fiction|Politics|505|0|2026-02-21|Charlie Brown|2026-05-12|2026-05-19
+The Poisonwood Bible|Carl Sagan|2004|Fiction|Other|506|0|2026-04-05|Charlie Brown|2026-05-12|2026-05-19
+The Alchemist|Dan Brown|1977|Fiction|Mystery|507|0|2025-08-07|George Costanza|2026-05-12|2026-05-19
+The Glass Castle|Isaac Asimov|1902|Fiction|SciFi|508|1|2026-02-12|||
+Foundation|Paulo Coelho|1941|Fiction|SciFi|509|0|2026-05-11|Diana Prince|2026-05-12|2026-05-19
+The Silent Patient|F. Scott Fitzgerald|1905|Non-Fiction|Autobiography|510|1|2026-03-27|||
+The Seven Husbands of Evelyn Hugo|Antoine de Saint-Exupery|2018|Non-Fiction|Science|511|1|2025-05-20|||
+Angels and Demons|Walter Isaacson|1921|Non-Fiction|Travel|512|0|2025-08-21|George Costanza|2026-05-12|2026-05-19
+The Starless Sea|Hanya Yanagihara|2020|Non-Fiction|Education|513|1|2025-09-28|||
+The Starless Sea|Neil Gaiman|1980|Non-Fiction|Economics|514|0|2026-03-08|Fiona Gallagher|2026-05-12|2026-05-19
+The Great Gatsby|Markus Zusak|1976|Non-Fiction|TrueCrime|515|0|2025-06-26|Bob Jones|2026-05-12|2026-05-19
+Where the Crawdads Sing|George Orwell|2009|Non-Fiction|Politics|516|1|2025-05-26|||
+The Iliad|Delia Owens|1921|Fiction|Romance|517|1|2025-08-22|||
+Deep Work|Paulo Coelho|1978|Fiction|Horror|518|1|2025-12-09|||
+The Paris Apartment|Margaret Atwood|1918|Fiction|Romance|519|1|2025-12-12|||
+Great Expectations|Dan Brown|2007|Fiction|Mystery|520|1|2026-03-22|||
+The Girl with the Dragon Tattoo|Frank Herbert|1988|Fiction|Crime|521|0|2025-06-10|George Costanza|2026-04-22|2026-04-29
+The Goldfinch|Walter Isaacson|1939|Fiction|SciFi|522|0|2026-03-08|Alice Smith|2026-05-12|2026-05-19
+The Paris Apartment|Antoine de Saint-Exupery|1939|Non-Fiction|Health|523|1|2025-10-18|||
+Good Omens|Neil Gaiman|2012|Non-Fiction|Politics|524|0|2025-08-23|Diana Prince|2026-05-12|2026-05-19
+Elon Musk|Yuval Noah Harari|2021|Fiction|Mystery|525|1|2026-03-07|||
+Steve Jobs|Frank Herbert|2007|Fiction|HistoricalFiction|526|1|2025-07-25|||
+The Book Thief|Richard Powers|1918|Non-Fiction|Travel|527|1|2026-01-07|||
+Brave New World|Homer|1994|Non-Fiction|History|528|1|2025-11-21|||
+The Kite Runner|Dan Brown|1993|Non-Fiction|Autobiography|529|0|2025-10-25|Edward Norton|2026-05-12|2026-05-19
+The Martian|Leo Tolstoy|1910|Non-Fiction|Memoir|530|1|2026-03-18|||
+Good Omens|JD Salinger|1980|Fiction|YoungAdult|531|0|2025-10-22|Fiona Gallagher|2026-05-12|2026-05-19
+Quiet|Andy Weir|2014|Non-Fiction|Economics|532|0|2025-12-19|Bob Jones|2026-05-12|2026-05-19
+For Whom the Bell Tolls|Andy Weir|1902|Non-Fiction|Philosophy|533|1|2025-07-26|||
+Breakfast of Champions|Kurt Vonnegut|1905|Fiction|Adventure|534|0|2025-06-25|Fiona Gallagher|2026-05-12|2026-05-19
+A Game of Thrones|Brandon Sanderson|1994|Fiction|Crime|535|1|2025-05-22|||
+Oryx and Crake|Emily Bronte|1975|Fiction|SliceOfLife|536|1|2025-06-15|||
+The Night Circus|Carl Sagan|1931|Fiction|Action|537|1|2026-03-08|||
+The Starless Sea|William Gibson|2008|Non-Fiction|Autobiography|538|0|2025-10-10|Bob Jones|2026-05-12|2026-05-19
+Cats Cradle|Delia Owens|1900|Non-Fiction|Technology|539|1|2026-04-04|||
+The Road|F. Scott Fitzgerald|1903|Fiction|Romance|540|0|2025-11-13|Edward Norton|2026-05-12|2026-05-19
+The Guest List|Dan Brown|1995|Non-Fiction|Philosophy|541|1|2025-09-15|||
+Dune|William Gibson|1948|Non-Fiction|Memoir|542|1|2025-11-16|||
+Big Little Lies|Markus Zusak|1949|Fiction|SciFi|543|0|2025-10-01|Bob Jones|2026-05-12|2026-05-19
+The Left Hand of Darkness|Lucy Foley|1941|Non-Fiction|Science|544|0|2026-01-14|Alice Smith|2026-05-12|2026-05-19
+Mistborn|Taylor Jenkins Reid|2019|Fiction|Crime|545|0|2026-03-24|Alice Smith|2026-05-12|2026-05-19
+War and Peace|Ursula K Le Guin|1969|Non-Fiction|Biography|546|1|2026-05-08|||
+The Goldfinch|Leo Tolstoy|1987|Non-Fiction|History|547|0|2026-03-24|Edward Norton|2026-04-22|2026-04-29
+Daisy Jones and The Six|Antoine de Saint-Exupery|1939|Non-Fiction|Technology|548|0|2025-11-22|Edward Norton|2026-05-12|2026-05-19
+Stardust|F. Scott Fitzgerald|2005|Fiction|Dystopian|549|0|2025-11-30|Alice Smith|2026-05-12|2026-05-19
+The Great Gatsby|Homer|1975|Fiction|HistoricalFiction|550|1|2026-04-06|||
+Anna Karenina|Alex Michaelides|1931|Fiction|Action|551|0|2025-05-17|Fiona Gallagher|2026-05-12|2026-05-19
+Breakfast of Champions|Khaled Hosseini|1980|Fiction|SliceOfLife|552|1|2026-04-11|||
+Life of Pi|Walter Isaacson|2017|Non-Fiction|Education|553|1|2026-03-28|||
+No Country for Old Men|Dan Brown|1951|Non-Fiction|Technology|554|1|2026-02-10|||
+American Gods|Dan Brown|2008|Non-Fiction|Science|555|0|2025-07-09|Fiona Gallagher|2026-05-12|2026-05-19
+Project Hail Mary|Ursula K Le Guin|1906|Fiction|SciFi|556|1|2025-07-05|||
+Mistborn|Sally Rooney|1996|Non-Fiction|Technology|557|1|2026-02-19|||
+The Alchemist|Tara Westover|1907|Fiction|Fantasy|558|0|2025-10-27|Fiona Gallagher|2026-05-12|2026-05-19
+Big Little Lies|Neil Gaiman|2017|Fiction|Crime|559|0|2026-01-22|Fiona Gallagher|2026-05-12|2026-05-19
+Crime and Punishment|Homer|2022|Fiction|Mystery|560|1|2026-04-12|||
+The Lost Symbol|Taylor Jenkins Reid|2017|Non-Fiction|Other|561|0|2025-07-22|George Costanza|2026-05-12|2026-05-19
+The Guest List|Margaret Atwood|1980|Fiction|SciFi|562|1|2025-12-10|||
+The Goldfinch|Harper Lee|2004|Fiction|Horror|563|1|2025-09-25|||
+War and Peace|Stieg Larsson|1936|Fiction|Mystery|564|1|2025-09-27|||
+Brave New World|James Clear|1982|Non-Fiction|Technology|565|0|2025-05-20|Alice Smith|2026-05-12|2026-05-19
+The Book Thief|JRR Tolkien|1963|Non-Fiction|Health|566|0|2025-12-02|George Costanza|2026-05-12|2026-05-19
+The Odyssey|Margaret Atwood|1989|Non-Fiction|TrueCrime|567|1|2025-07-16|||
+Thinking Fast and Slow|Stieg Larsson|2020|Non-Fiction|Biography|568|0|2026-03-04|George Costanza|2026-04-22|2026-04-29
+The Song of Achilles|Yann Martel|1965|Fiction|HistoricalFiction|569|1|2026-03-07|||
+Hamilton|Lucy Foley|1976|Fiction|Dystopian|570|0|2025-12-29|George Costanza|2026-05-12|2026-05-19
+A Farewell to Arms|F. Scott Fitzgerald|1974|Non-Fiction|Memoir|571|1|2026-01-31|||
+Dune|F. Scott Fitzgerald|1980|Non-Fiction|Philosophy|572|1|2025-10-11|||
+1984|Markus Zusak|1953|Non-Fiction|Memoir|573|1|2026-05-11|||
+Conversations with Friends|Ursula K Le Guin|2003|Non-Fiction|Autobiography|574|0|2026-02-08|Edward Norton|2026-04-22|2026-04-29
+Moby Dick|Ernest Hemingway|1902|Non-Fiction|Technology|575|1|2025-11-26|||
+The Brothers Karamazov|Barbara Kingsolver|1929|Fiction|HistoricalFiction|576|1|2025-12-08|||
+The Grapes of Wrath|Fyodor Dostoevsky|2022|Non-Fiction|Philosophy|577|1|2025-12-15|||
+The Guest List|Charlotte Bronte|1911|Fiction|Fantasy|578|1|2025-11-15|||
+The Goldfinch|Aldous Huxley|1925|Fiction|Crime|579|1|2026-03-10|||
+The Goldfinch|Hanya Yanagihara|1927|Non-Fiction|Philosophy|580|0|2025-05-13|Charlie Brown|2026-05-12|2026-05-19
+The Brothers Karamazov|F. Scott Fitzgerald|2013|Fiction|HistoricalFiction|581|1|2026-01-28|||
+Atomic Habits|Stieg Larsson|1936|Non-Fiction|Psychology|582|1|2025-12-28|||
+Conversations with Friends|Brandon Sanderson|1903|Non-Fiction|Science|583|0|2025-09-25|George Costanza|2026-05-12|2026-05-19
+The Name of the Wind|Cormac McCarthy|2003|Non-Fiction|Memoir|584|1|2025-08-09|||
+Inferno|Daniel Kahneman|2003|Fiction|Fantasy|585|1|2025-06-30|||
+The Hobbit|F. Scott Fitzgerald|1912|Fiction|Thriller|586|1|2026-02-10|||
+Deep Work|JRR Tolkien|1956|Non-Fiction|Education|587|0|2025-06-18|Edward Norton|2026-05-12|2026-05-19
+Origin|Charlotte Bronte|2013|Fiction|SciFi|588|1|2025-07-31|||
+Big Little Lies|Ernest Hemingway|1983|Non-Fiction|Biography|589|1|2026-02-02|||
+The Little Prince|Paulo Coelho|1988|Non-Fiction|Travel|590|1|2026-01-05|||
+A Tale of Two Cities|Khaled Hosseini|1992|Non-Fiction|Autobiography|591|1|2025-07-12|||
+Circe|JD Salinger|2006|Fiction|Adventure|592|0|2025-05-23|Charlie Brown|2026-05-12|2026-05-19
+Inferno|CS Lewis|1905|Non-Fiction|Psychology|593|1|2026-01-04|||
+The Sirens of Titan|Ray Bradbury|2011|Non-Fiction|Religion|594|0|2025-11-27|Charlie Brown|2026-05-12|2026-05-19
+The Alchemist|Delia Owens|2023|Fiction|Other|595|0|2026-04-20|Fiona Gallagher|2026-04-22|2026-04-29
+H Is for Hawk|Delia Owens|1914|Fiction|Fantasy|596|1|2025-08-25|||
+Deep Work|Lucy Foley|1913|Non-Fiction|Health|597|1|2025-11-20|||
+The Secret History|Charlotte Bronte|1975|Fiction|Other|598|1|2025-12-18|||
+Oryx and Crake|Ursula K Le Guin|1900|Fiction|SliceOfLife|599|1|2025-06-25|||
+Anna Karenina|Herman Melville|1904|Fiction|Dystopian|600|1|2025-12-06|||
+The Martian|Madeline Miller|2000|Fiction|YoungAdult|601|0|2025-07-22|George Costanza|2026-05-12|2026-05-19
+The Left Hand of Darkness|Herman Melville|1901|Non-Fiction|Autobiography|602|1|2026-01-20|||
+Fahrenheit 451|Richard Powers|1974|Non-Fiction|Other|603|1|2025-11-28|||
+Cats Cradle|Joe Abercrombie|1943|Non-Fiction|Science|604|1|2026-05-04|||
+Pride and Prejudice|Delia Owens|1989|Fiction|SciFi|605|1|2026-04-19|||
+The Lost Symbol|George Orwell|2000|Non-Fiction|Biography|606|0|2025-05-25|Fiona Gallagher|2026-05-12|2026-05-19
+Angels and Demons|Brandon Sanderson|2022|Fiction|SliceOfLife|607|1|2025-06-22|||
+Thinking Fast and Slow|Tara Westover|1937|Fiction|Drama|608|1|2025-12-24|||
+The Guest List|JRR Tolkien|1961|Non-Fiction|Psychology|609|1|2026-01-25|||
+Homo Deus|Margaret Atwood|2018|Fiction|Adventure|610|1|2026-01-30|||
+The Silent Patient|Andy Weir|1918|Non-Fiction|TrueCrime|611|0|2025-06-18|Bob Jones|2026-05-12|2026-05-19
+Gone Girl|Ernest Hemingway|1909|Fiction|Crime|612|1|2026-03-03|||
+Deep Work|Fyodor Dostoevsky|2014|Non-Fiction|Education|613|1|2026-01-15|||
+Dark Places|JRR Tolkien|2012|Non-Fiction|Technology|614|1|2025-06-28|||
+A Tale of Two Cities|Gillian Flynn|1956|Non-Fiction|Memoir|615|1|2026-04-09|||
+Fahrenheit 451|Tara Westover|1956|Non-Fiction|Travel|616|1|2025-10-08|||
+The Overstory|Richard Powers|1991|Non-Fiction|Education|617|1|2025-09-19|||
+Neverwhere|Kurt Vonnegut|2015|Non-Fiction|History|618|1|2025-05-17|||
+H Is for Hawk|Barbara Kingsolver|2002|Fiction|Adventure|619|1|2025-12-16|||
+The Blind Assassin|JD Salinger|1933|Fiction|Thriller|620|1|2026-01-25|||
+For Whom the Bell Tolls|Fyodor Dostoevsky|1926|Non-Fiction|History|621|0|2026-01-09|Diana Prince|2026-05-12|2026-05-19
+The Left Hand of Darkness|Patrick Rothfuss|2020|Non-Fiction|TrueCrime|622|1|2025-12-04|||
+Mistborn|Aldous Huxley|2003|Non-Fiction|Politics|623|1|2025-08-25|||
+Atomic Habits|Joe Abercrombie|1971|Non-Fiction|Biography|624|1|2026-04-15|||
+Angels and Demons|Carl Sagan|1950|Non-Fiction|Health|625|1|2025-07-31|||
+The Lord of the Rings|Markus Zusak|1970|Non-Fiction|Travel|626|1|2026-02-18|||
+Elon Musk|Dan Brown|1924|Non-Fiction|Biography|627|1|2025-06-25|||
+Origin|Walter Isaacson|1956|Fiction|HistoricalFiction|628|1|2026-04-25|||
+The Alchemist|Alex Michaelides|1977|Fiction|Dystopian|629|1|2025-12-19|||
+Educated|Aldous Huxley|1982|Fiction|HistoricalFiction|630|1|2025-10-16|||
+The Road|James Clear|2012|Non-Fiction|Other|631|0|2026-01-26|Edward Norton|2026-05-12|2026-05-19
+Anna Karenina|Antoine de Saint-Exupery|1926|Fiction|Drama|632|1|2026-03-30|||
+The Brothers Karamazov|Lucy Foley|1917|Fiction|Action|633|1|2025-11-07|||
+The Little Prince|Frank Herbert|1950|Non-Fiction|History|634|1|2025-12-16|||
+The Maidens|Harper Lee|1996|Fiction|Fantasy|635|1|2025-08-14|||
+Quiet|Taylor Jenkins Reid|1909|Fiction|Horror|636|0|2025-07-18|Bob Jones|2026-04-22|2026-04-29
+Gone Girl|Delia Owens|1902|Non-Fiction|Religion|637|1|2025-12-30|||
+Blood Meridian|Stieg Larsson|2010|Fiction|SciFi|638|1|2025-05-17|||
+Anansi Boys|George Orwell|2009|Non-Fiction|History|639|0|2026-01-07|Alice Smith|2026-05-12|2026-05-19
+Grit|Neil Gaiman|1996|Non-Fiction|Psychology|640|0|2025-05-22|Alice Smith|2026-05-12|2026-05-19
+The Book Thief|Joe Abercrombie|1912|Non-Fiction|Education|641|1|2025-06-14|||
+The Girl with the Dragon Tattoo|CS Lewis|1934|Fiction|Fantasy|642|1|2025-05-27|||
+The Seven Husbands of Evelyn Hugo|Sally Rooney|2007|Non-Fiction|Travel|643|1|2026-03-25|||
+Slaughterhouse-Five|Ernest Hemingway|2010|Fiction|Dystopian|644|0|2026-01-05|Fiona Gallagher|2026-05-12|2026-05-19
+Gone Girl|Yann Martel|1939|Fiction|Romance|645|1|2026-01-08|||
+The Hunting Party|Ursula K Le Guin|1910|Fiction|Mystery|646|1|2025-09-08|||
+The Handmaids Tale|Margaret Atwood|1917|Non-Fiction|History|647|0|2026-04-08|Bob Jones|2026-05-12|2026-05-19
+Dark Places|Richard Powers|1964|Fiction|Romance|648|1|2025-09-25|||
+The Sun Also Rises|John Steinbeck|1972|Fiction|Adventure|649|1|2025-12-30|||
+The Alchemist|Erin Morgenstern|1928|Fiction|Romance|650|0|2025-06-18|George Costanza|2026-05-12|2026-05-19
+The Odyssey|Margaret Atwood|1903|Fiction|Thriller|651|0|2025-09-16|Bob Jones|2026-05-12|2026-05-19
+Daisy Jones and The Six|Andy Weir|1986|Fiction|SliceOfLife|652|1|2025-07-30|||
+Normal People|Richard Powers|1904|Non-Fiction|Philosophy|653|0|2025-05-15|Charlie Brown|2026-05-12|2026-05-19
+The Da Vinci Code|Tara Westover|1980|Non-Fiction|Psychology|654|1|2026-03-04|||
+Elon Musk|Daniel Kahneman|1945|Non-Fiction|Other|655|1|2025-08-07|||
+The Handmaids Tale|Joe Abercrombie|1923|Fiction|Mystery|656|1|2025-07-23|||
+Fahrenheit 451|Tara Westover|1967|Non-Fiction|Other|657|1|2025-10-14|||
+Great Expectations|Homer|1925|Non-Fiction|Biography|658|0|2025-05-27|Charlie Brown|2026-05-12|2026-05-19
+A Tale of Two Cities|Tara Westover|1911|Fiction|Dystopian|659|1|2025-12-25|||
+Steve Jobs|Barbara Kingsolver|2021|Non-Fiction|Technology|660|0|2025-08-02|Diana Prince|2026-04-22|2026-04-29
+The Poisonwood Bible|JRR Tolkien|1953|Fiction|HistoricalFiction|661|0|2026-04-15|Diana Prince|2026-05-12|2026-05-19
+Dune|Taylor Jenkins Reid|2022|Non-Fiction|Health|662|1|2025-11-22|||
+The Road|Sally Rooney|1937|Fiction|SliceOfLife|663|1|2025-11-18|||
+The Left Hand of Darkness|Kurt Vonnegut|1937|Non-Fiction|TrueCrime|664|1|2025-11-10|||
+Neuromancer|Frank Herbert|1949|Fiction|Fantasy|665|1|2025-10-03|||
+The Name of the Wind|Frank Herbert|2015|Non-Fiction|History|666|1|2026-02-21|||
+The Hobbit|Margaret Atwood|1945|Fiction|SciFi|667|1|2025-05-13|||
+The Sirens of Titan|Frank Herbert|2021|Fiction|Fantasy|668|1|2026-03-26|||
+Normal People|CS Lewis|1927|Non-Fiction|Politics|669|0|2026-03-20|Bob Jones|2026-05-12|2026-05-19
+Breakfast of Champions|JD Salinger|1940|Non-Fiction|Biography|670|1|2025-08-02|||
+Anansi Boys|John Steinbeck|1976|Fiction|Dystopian|671|1|2025-12-16|||
+Circe|George Orwell|1981|Fiction|YoungAdult|672|1|2026-04-11|||
+Angels and Demons|Brandon Sanderson|1957|Non-Fiction|Travel|673|0|2026-04-16|George Costanza|2026-05-12|2026-05-19
+Sapiens|Barbara Kingsolver|1975|Fiction|Fantasy|674|1|2025-08-14|||
+The Name of the Wind|Leo Tolstoy|2024|Fiction|Other|675|1|2025-05-30|||
+Fahrenheit 451|Dan Brown|1977|Fiction|Action|676|1|2025-06-19|||
+The Grapes of Wrath|Charles Dickens|1900|Fiction|Fantasy|677|0|2026-04-22|Diana Prince|2026-05-12|2026-05-19
+The Chronicles of Narnia|Charles Dickens|1949|Non-Fiction|History|678|1|2025-10-14|||
+Anansi Boys|Yuval Noah Harari|1962|Fiction|SciFi|679|1|2025-12-14|||
+The Blind Assassin|Harper Lee|1941|Fiction|Horror|680|1|2025-07-06|||
+The Girl with the Dragon Tattoo|John Steinbeck|2002|Fiction|Action|681|1|2026-01-16|||
+Animal Farm|Margaret Atwood|1989|Fiction|Crime|682|1|2026-03-21|||
+Neuromancer|CS Lewis|2019|Fiction|Crime|683|1|2026-01-01|||
+The Secret History|Gillian Flynn|1963|Non-Fiction|Travel|684|1|2025-09-02|||
+Elon Musk|Paulo Coelho|1940|Non-Fiction|Health|685|1|2026-02-11|||
+Project Hail Mary|Madeline Miller|2023|Non-Fiction|Biography|686|1|2025-09-17|||
+The Paris Apartment|Brandon Sanderson|1931|Fiction|Horror|687|1|2025-10-02|||
+The Hobbit|Richard Powers|1936|Non-Fiction|TrueCrime|688|1|2025-12-28|||
+The Blade Itself|Alex Michaelides|2016|Fiction|HistoricalFiction|689|0|2025-08-19|George Costanza|2026-05-12|2026-05-19
+A Tale of Two Cities|F. Scott Fitzgerald|1996|Non-Fiction|Travel|690|1|2026-02-06|||
+The Iliad|Kurt Vonnegut|1919|Fiction|HistoricalFiction|691|0|2025-10-26|Fiona Gallagher|2026-05-12|2026-05-19
+A Farewell to Arms|JRR Tolkien|1929|Fiction|Thriller|692|1|2026-05-02|||
+Dark Places|Stieg Larsson|1910|Non-Fiction|Religion|693|0|2026-03-13|Charlie Brown|2026-05-12|2026-05-19
+Fahrenheit 451|Aldous Huxley|1922|Non-Fiction|TrueCrime|694|1|2026-02-02|||
+Stardust|JD Salinger|2008|Non-Fiction|Education|695|0|2026-01-24|Bob Jones|2026-05-12|2026-05-19
+American Gods|Cormac McCarthy|1969|Fiction|Thriller|696|0|2025-08-23|Fiona Gallagher|2026-05-12|2026-05-19
+Wild|Lucy Foley|1941|Non-Fiction|Economics|697|0|2025-12-11|Diana Prince|2026-05-12|2026-05-19
+The Lord of the Rings|Dan Brown|1937|Non-Fiction|Philosophy|698|0|2026-02-15|Fiona Gallagher|2026-05-12|2026-05-19
+Neuromancer|F. Scott Fitzgerald|1908|Fiction|Thriller|699|0|2026-01-08|George Costanza|2026-05-12|2026-05-19
+Gone Girl|JD Salinger|1923|Non-Fiction|Travel|700|1|2025-06-07|||
+The Lost Symbol|Isaac Asimov|2018|Non-Fiction|Philosophy|701|1|2025-07-07|||
+H Is for Hawk|Antoine de Saint-Exupery|1928|Fiction|Mystery|702|1|2025-12-17|||
+Crime and Punishment|JRR Tolkien|1949|Fiction|Thriller|703|1|2026-02-20|||
+Circe|Daniel Kahneman|1937|Non-Fiction|TrueCrime|704|1|2025-06-04|||
+Life of Pi|Dan Brown|1925|Non-Fiction|Other|705|0|2025-08-19|George Costanza|2026-04-22|2026-04-29
+Wuthering Heights|Leo Tolstoy|2001|Non-Fiction|History|706|1|2025-08-07|||
+For Whom the Bell Tolls|Andy Weir|1951|Non-Fiction|Politics|707|0|2025-06-12|Edward Norton|2026-05-12|2026-05-19
+The Catcher in the Rye|Antoine de Saint-Exupery|1970|Fiction|Crime|708|1|2025-08-14|||
+The Kite Runner|Liane Moriarty|1968|Non-Fiction|TrueCrime|709|0|2026-03-04|Fiona Gallagher|2026-05-12|2026-05-19
+1984|Alex Michaelides|1979|Non-Fiction|Politics|710|1|2026-03-26|||
+The Lost Symbol|Sally Rooney|1983|Non-Fiction|Religion|711|1|2026-03-01|||
+The Song of Achilles|Liane Moriarty|1910|Fiction|Action|712|0|2025-10-10|Alice Smith|2026-05-12|2026-05-19
+Jane Eyre|Carl Sagan|1954|Non-Fiction|Economics|713|1|2026-03-08|||
+Educated|Joe Abercrombie|1945|Fiction|Adventure|714|0|2025-11-15|Fiona Gallagher|2026-05-12|2026-05-19
+Educated|Yann Martel|1984|Non-Fiction|Economics|715|0|2026-04-11|George Costanza|2026-05-12|2026-05-19
+Elon Musk|Alex Michaelides|1967|Fiction|HistoricalFiction|716|1|2026-04-09|||
+Wild|Taylor Jenkins Reid|2003|Fiction|Drama|717|1|2026-05-10|||
+Homo Deus|Walter Isaacson|1915|Fiction|SliceOfLife|718|1|2025-05-16|||
+A Farewell to Arms|Antoine de Saint-Exupery|1939|Fiction|Drama|719|1|2026-04-12|||
+No Country for Old Men|Taylor Jenkins Reid|1905|Fiction|SliceOfLife|720|1|2025-09-12|||
+The Handmaids Tale|Madeline Miller|1945|Non-Fiction|Economics|721|1|2026-03-24|||
+Jane Eyre|Aldous Huxley|2013|Non-Fiction|History|722|0|2025-06-03|Charlie Brown|2026-05-12|2026-05-19
+The Glass Castle|Homer|1912|Fiction|HistoricalFiction|723|1|2025-05-21|||
+Dark Places|Aldous Huxley|1955|Fiction|Crime|724|0|2026-01-03|Edward Norton|2026-04-22|2026-04-29
+The Da Vinci Code|George Orwell|1980|Fiction|YoungAdult|725|1|2025-09-07|||
+A Tale of Two Cities|Antoine de Saint-Exupery|1916|Non-Fiction|Travel|726|1|2025-12-23|||
+The Guest List|Madeline Miller|1972|Non-Fiction|Psychology|727|1|2025-10-25|||
+Alias Grace|George RR Martin|1953|Non-Fiction|Autobiography|728|0|2026-03-10|Edward Norton|2026-05-12|2026-05-19
+The Silent Patient|Jane Austen|1911|Fiction|Horror|729|1|2025-08-26|||
+The Blade Itself|Dan Brown|2019|Fiction|SciFi|730|1|2025-06-21|||
+Atomic Habits|Delia Owens|1992|Fiction|Fantasy|731|1|2025-11-06|||
+Oryx and Crake|Ernest Hemingway|1936|Non-Fiction|Travel|732|1|2026-03-06|||
+The Seven Husbands of Evelyn Hugo|Markus Zusak|1905|Non-Fiction|Health|733|1|2025-11-02|||
+Anansi Boys|Walter Isaacson|1968|Non-Fiction|Philosophy|734|1|2025-07-04|||
+Moby Dick|Antoine de Saint-Exupery|1929|Fiction|SciFi|735|0|2025-06-29|Bob Jones|2026-04-22|2026-04-29
+Elon Musk|Khaled Hosseini|1993|Fiction|YoungAdult|736|1|2025-09-10|||
+Brave New World|James Clear|1963|Fiction|Other|737|1|2025-07-31|||
+Homo Deus|Richard Powers|1995|Fiction|Drama|738|0|2025-06-12|Edward Norton|2026-05-12|2026-05-19
+Crime and Punishment|Richard Powers|1999|Non-Fiction|Travel|739|1|2026-04-01|||
+Crime and Punishment|Emily Bronte|1902|Non-Fiction|Science|740|1|2025-11-17|||
+Project Hail Mary|Erin Morgenstern|1949|Non-Fiction|Other|741|1|2026-03-27|||
+A Tale of Two Cities|Alex Michaelides|2006|Fiction|HistoricalFiction|742|1|2025-05-21|||
+Normal People|Harper Lee|1954|Non-Fiction|Religion|743|1|2026-02-17|||
+The Road|F. Scott Fitzgerald|1989|Fiction|Thriller|744|0|2026-03-04|George Costanza|2026-05-12|2026-05-19
+The Sun Also Rises|Emily Bronte|1923|Non-Fiction|Politics|745|0|2026-02-25|Diana Prince|2026-05-12|2026-05-19
+Angels and Demons|Charles Dickens|2014|Non-Fiction|Health|746|1|2026-05-09|||
+The Maidens|Antoine de Saint-Exupery|1908|Fiction|Drama|747|0|2025-09-16|Bob Jones|2026-04-22|2026-04-29
+Where the Crawdads Sing|Antoine de Saint-Exupery|1933|Non-Fiction|Religion|748|1|2025-11-14|||
+The Old Man and the Sea|Frank Herbert|1979|Fiction|Action|749|1|2025-10-08|||
+Animal Farm|Yuval Noah Harari|1916|Non-Fiction|Science|750|1|2025-10-19|||
+Mistborn|Ray Bradbury|1966|Fiction|Adventure|751|0|2025-06-27|Edward Norton|2026-05-12|2026-05-19
+The Great Gatsby|Herman Melville|1995|Non-Fiction|Technology|752|0|2026-04-23|Alice Smith|2026-05-12|2026-05-19
+A Little Life|Homer|1967|Fiction|Romance|753|1|2026-03-19|||
+The Hunting Party|Andy Weir|1997|Non-Fiction|Health|754|1|2026-01-25|||
+Crime and Punishment|Yann Martel|1912|Fiction|Drama|755|1|2025-12-31|||
+Project Hail Mary|Aldous Huxley|1923|Fiction|Crime|756|0|2025-12-24|Fiona Gallagher|2026-05-12|2026-05-19
+Hamilton|F. Scott Fitzgerald|2013|Fiction|Crime|757|0|2025-11-26|Bob Jones|2026-05-12|2026-05-19
+The Sun Also Rises|Donna Tartt|1942|Non-Fiction|Memoir|758|1|2025-05-23|||
+Sapiens|Ursula K Le Guin|1938|Non-Fiction|Education|759|1|2026-01-01|||
+The Brothers Karamazov|George Orwell|1924|Fiction|Drama|760|1|2025-07-15|||
+The Blind Assassin|Fyodor Dostoevsky|1973|Fiction|SciFi|761|1|2025-08-10|||
+A Game of Thrones|Charles Dickens|1922|Non-Fiction|Other|762|0|2026-03-18|Fiona Gallagher|2026-05-12|2026-05-19
+The Song of Achilles|Herman Melville|2002|Non-Fiction|Psychology|763|0|2025-08-02|George Costanza|2026-05-12|2026-05-19
+Cats Cradle|Antoine de Saint-Exupery|1938|Non-Fiction|History|764|0|2025-12-14|George Costanza|2026-05-12|2026-05-19
+Brave New World|Markus Zusak|1945|Fiction|Drama|765|1|2025-11-09|||
+The Road|Ernest Hemingway|2001|Fiction|Adventure|766|1|2025-09-06|||
+The Lord of the Rings|Ernest Hemingway|1945|Non-Fiction|Other|767|1|2025-12-01|||
+The Sun Also Rises|Erin Morgenstern|1990|Fiction|Thriller|768|0|2026-04-03|Alice Smith|2026-05-12|2026-05-19
+The Grapes of Wrath|Walter Isaacson|2004|Non-Fiction|Travel|769|0|2025-09-29|Edward Norton|2026-05-12|2026-05-19
+Steve Jobs|JRR Tolkien|1900|Fiction|Drama|770|1|2025-09-11|||
+The Lord of the Rings|Andy Weir|1991|Fiction|Drama|771|1|2026-01-11|||
+The Odyssey|Cormac McCarthy|1929|Non-Fiction|Other|772|1|2025-05-31|||
+Oryx and Crake|Donna Tartt|1994|Fiction|Horror|773|1|2025-05-20|||
+Dune|Charles Dickens|1931|Non-Fiction|Autobiography|774|1|2025-08-25|||
+The Catcher in the Rye|JRR Tolkien|1995|Non-Fiction|Memoir|775|1|2025-11-23|||
+Circe|Brandon Sanderson|2022|Non-Fiction|TrueCrime|776|0|2026-05-10|Diana Prince|2026-05-12|2026-05-19
+The Chronicles of Narnia|Herman Melville|1906|Fiction|Other|777|0|2026-02-05|Bob Jones|2026-05-12|2026-05-19
+Moby Dick|James Clear|2015|Non-Fiction|Religion|778|1|2026-01-24|||
+Deep Work|William Gibson|1978|Fiction|Mystery|779|1|2025-07-24|||
+American Gods|Antoine de Saint-Exupery|1905|Fiction|Dystopian|780|1|2025-07-25|||
+Gone Girl|Homer|2022|Non-Fiction|Other|781|0|2026-05-11|Fiona Gallagher|2026-05-12|2026-05-19
+The Odyssey|John Steinbeck|1967|Fiction|Drama|782|1|2026-03-06|||
+Project Hail Mary|Stieg Larsson|2005|Non-Fiction|Religion|783|1|2026-05-11|||
+American Gods|Charles Dickens|1999|Fiction|SciFi|784|0|2025-05-23|Diana Prince|2026-05-12|2026-05-19
+Artemis|Taylor Jenkins Reid|1932|Non-Fiction|Education|785|1|2026-02-18|||
+No Country for Old Men|Cormac McCarthy|1908|Non-Fiction|Philosophy|786|0|2025-10-20|Alice Smith|2026-05-12|2026-05-19
+The Martian|Leo Tolstoy|1946|Fiction|Adventure|787|1|2025-08-08|||
+Artemis|F. Scott Fitzgerald|2006|Non-Fiction|History|788|1|2025-12-05|||
+The Great Gatsby|Stieg Larsson|1998|Non-Fiction|Philosophy|789|0|2025-12-24|Edward Norton|2026-04-22|2026-04-29
+The Alchemist|Khaled Hosseini|1942|Non-Fiction|TrueCrime|790|0|2026-02-22|Edward Norton|2026-05-12|2026-05-19
+Dark Places|Andy Weir|1981|Non-Fiction|Technology|791|0|2026-03-10|Charlie Brown|2026-04-22|2026-04-29
+Homo Deus|Liane Moriarty|1922|Fiction|Adventure|792|1|2026-04-05|||
+American Gods|Kurt Vonnegut|1908|Non-Fiction|Technology|793|1|2025-10-08|||
+Crime and Punishment|Walter Isaacson|2024|Non-Fiction|Health|794|1|2025-12-06|||
+Inferno|Daniel Kahneman|1901|Non-Fiction|Health|795|1|2026-04-11|||
+Daisy Jones and The Six|Erin Morgenstern|1902|Non-Fiction|Travel|796|1|2025-11-05|||
+Anansi Boys|Kurt Vonnegut|1951|Non-Fiction|Economics|797|1|2025-07-19|||
+The Book Thief|Charlotte Bronte|1904|Fiction|Other|798|0|2025-06-18|Alice Smith|2026-05-12|2026-05-19
+Angels and Demons|Charles Dickens|2016|Fiction|Adventure|799|1|2025-10-09|||
+Project Hail Mary|Madeline Miller|1961|Non-Fiction|Autobiography|800|0|2026-02-17|George Costanza|2026-04-22|2026-04-29
+Atomic Habits|Leo Tolstoy|1917|Non-Fiction|Religion|801|0|2026-04-04|Diana Prince|2026-05-12|2026-05-19
+Grit|Carl Sagan|1968|Fiction|SliceOfLife|802|1|2025-08-26|||
+The Overstory|Margaret Atwood|1943|Fiction|Horror|803|1|2026-03-28|||
+The Song of Achilles|Donna Tartt|1956|Fiction|Thriller|804|1|2026-02-04|||
+The Silent Patient|Brandon Sanderson|1950|Non-Fiction|Economics|805|1|2025-08-13|||
+The Maidens|Ray Bradbury|1941|Fiction|Horror|806|1|2025-05-19|||
+The Road|Margaret Atwood|2002|Non-Fiction|Autobiography|807|1|2025-07-16|||
+Conversations with Friends|Madeline Miller|2014|Fiction|SliceOfLife|808|1|2025-10-03|||
+The Blade Itself|Yann Martel|1906|Non-Fiction|Religion|809|0|2026-01-20|Diana Prince|2026-05-12|2026-05-19
+A Game of Thrones|Sally Rooney|1912|Fiction|Other|810|0|2025-05-12|Bob Jones|2026-05-12|2026-05-19
+Animal Farm|Delia Owens|1924|Fiction|Other|811|1|2026-03-16|||
+The Hunting Party|Jane Austen|2022|Non-Fiction|Biography|812|1|2025-08-25|||
+No Country for Old Men|Taylor Jenkins Reid|2010|Non-Fiction|Technology|813|0|2026-03-04|George Costanza|2026-05-12|2026-05-19
+The Lost Symbol|F. Scott Fitzgerald|1985|Non-Fiction|Politics|814|1|2025-11-30|||
+Neuromancer|Carl Sagan|1957|Non-Fiction|Philosophy|815|0|2026-03-21|Alice Smith|2026-04-22|2026-04-29
+The Chronicles of Narnia|Andy Weir|1958|Fiction|YoungAdult|816|1|2025-05-24|||
+The Brothers Karamazov|Leo Tolstoy|1974|Non-Fiction|Education|817|1|2025-07-07|||
+The Starless Sea|Erin Morgenstern|1945|Non-Fiction|Technology|818|0|2025-06-02|Charlie Brown|2026-05-12|2026-05-19
+The Paris Apartment|Neil Gaiman|1953|Fiction|Thriller|819|1|2025-08-05|||
+A Little Life|Andy Weir|1937|Fiction|SciFi|820|1|2026-01-06|||
+Sapiens|Donna Tartt|1953|Non-Fiction|TrueCrime|821|0|2026-01-08|Diana Prince|2026-05-12|2026-05-19
+A Little Life|Yann Martel|1915|Non-Fiction|Psychology|822|0|2025-06-16|George Costanza|2026-05-12|2026-05-19
+Jane Eyre|Tara Westover|1990|Non-Fiction|History|823|0|2025-10-08|Edward Norton|2026-05-12|2026-05-19
+The Odyssey|Yuval Noah Harari|1995|Non-Fiction|Education|824|1|2026-02-20|||
+The Goldfinch|Andy Weir|2020|Non-Fiction|Science|825|0|2026-02-15|Alice Smith|2026-05-12|2026-05-19
+Angels and Demons|Leo Tolstoy|1913|Non-Fiction|Memoir|826|0|2026-04-25|George Costanza|2026-05-12|2026-05-19
+Where the Crawdads Sing|Erin Morgenstern|1988|Fiction|YoungAdult|827|1|2025-09-10|||
+The Girl with the Dragon Tattoo|Sally Rooney|2012|Fiction|Other|828|0|2025-09-25|George Costanza|2026-05-12|2026-05-19
+Conversations with Friends|Taylor Jenkins Reid|1993|Non-Fiction|Economics|829|1|2025-10-07|||
+The Martian|Charles Dickens|1960|Non-Fiction|Health|830|1|2026-02-09|||
+The Poisonwood Bible|William Gibson|1975|Fiction|Horror|831|1|2025-05-15|||
+The Kite Runner|Fyodor Dostoevsky|1920|Non-Fiction|Travel|832|1|2026-03-05|||
+The Blind Assassin|Joe Abercrombie|2016|Fiction|Crime|833|1|2025-09-12|||
+A Little Life|Taylor Jenkins Reid|1935|Fiction|Thriller|834|0|2025-12-21|Diana Prince|2026-04-22|2026-04-29
+Oryx and Crake|Emily Bronte|1977|Non-Fiction|History|835|0|2026-04-04|Charlie Brown|2026-05-12|2026-05-19
+Dark Places|Alex Michaelides|1953|Non-Fiction|Economics|836|0|2026-03-11|Alice Smith|2026-05-12|2026-05-19
+Sapiens|Lucy Foley|1927|Fiction|Dystopian|837|0|2025-06-02|Alice Smith|2026-05-12|2026-05-19
+A Game of Thrones|William Gibson|1962|Fiction|Romance|838|0|2026-05-11|Edward Norton|2026-05-12|2026-05-19
+Neverwhere|Leo Tolstoy|1932|Non-Fiction|Science|839|0|2026-05-01|George Costanza|2026-05-12|2026-05-19
+1984|James Clear|1971|Fiction|SliceOfLife|840|0|2025-12-24|Bob Jones|2026-05-12|2026-05-19
+Anna Karenina|Lucy Foley|1915|Fiction|Adventure|841|1|2026-03-10|||
+Jane Eyre|Stieg Larsson|1914|Non-Fiction|TrueCrime|842|1|2025-12-02|||
+The Road|Herman Melville|1977|Non-Fiction|Education|843|0|2025-07-10|Alice Smith|2026-05-12|2026-05-19
+The Paris Apartment|Alex Michaelides|1993|Non-Fiction|Travel|844|1|2025-07-09|||
+Hamilton|John Steinbeck|1967|Fiction|Horror|845|0|2026-01-31|Edward Norton|2026-05-12|2026-05-19
+American Gods|Ernest Hemingway|1911|Fiction|Romance|846|1|2025-10-14|||
+The Lord of the Rings|Neil Gaiman|1906|Fiction|Drama|847|1|2025-10-08|||
+The Goldfinch|Kurt Vonnegut|1970|Non-Fiction|Philosophy|848|1|2025-06-15|||
+Sharp Objects|Brandon Sanderson|1933|Fiction|Dystopian|849|0|2025-09-24|Charlie Brown|2026-05-12|2026-05-19
+A Little Life|Harper Lee|1985|Fiction|Crime|850|0|2026-02-18|Fiona Gallagher|2026-04-22|2026-04-29
+H Is for Hawk|Hanya Yanagihara|1955|Non-Fiction|Biography|851|0|2026-01-21|Diana Prince|2026-05-12|2026-05-19
+H Is for Hawk|Richard Powers|1992|Fiction|Drama|852|1|2026-04-13|||
+The Girl with the Dragon Tattoo|Delia Owens|1941|Non-Fiction|Memoir|853|0|2025-08-10|Alice Smith|2026-05-12|2026-05-19
+The Left Hand of Darkness|Patrick Rothfuss|1918|Non-Fiction|Other|854|0|2026-04-10|Fiona Gallagher|2026-05-12|2026-05-19
+The Grapes of Wrath|Ursula K Le Guin|1978|Non-Fiction|TrueCrime|855|0|2026-02-24|Charlie Brown|2026-05-12|2026-05-19
+Conversations with Friends|Herman Melville|1917|Non-Fiction|Technology|856|0|2026-04-22|Charlie Brown|2026-05-12|2026-05-19
+The Overstory|Neil Gaiman|1956|Fiction|Mystery|857|1|2025-07-18|||
+Elon Musk|Cormac McCarthy|1903|Non-Fiction|Technology|858|0|2025-10-27|George Costanza|2026-04-22|2026-04-29
+Dark Places|Khaled Hosseini|1954|Fiction|Mystery|859|0|2025-08-28|Fiona Gallagher|2026-04-22|2026-04-29
+Malibu Rising|Erin Morgenstern|1945|Non-Fiction|Education|860|0|2026-03-12|Edward Norton|2026-04-22|2026-04-29
+Cats Cradle|Brandon Sanderson|1950|Fiction|Thriller|861|1|2025-05-20|||
+The Lost Symbol|Ursula K Le Guin|1912|Non-Fiction|Education|862|0|2025-09-26|Diana Prince|2026-05-12|2026-05-19
+The Song of Achilles|Ernest Hemingway|1980|Fiction|Romance|863|1|2025-07-22|||
+The Seven Husbands of Evelyn Hugo|Antoine de Saint-Exupery|1980|Non-Fiction|Religion|864|1|2026-02-06|||
+The Left Hand of Darkness|Yann Martel|2014|Non-Fiction|Technology|865|0|2026-05-04|Charlie Brown|2026-05-12|2026-05-19
+The Way of Kings|Lucy Foley|1956|Fiction|SciFi|866|0|2025-10-20|Alice Smith|2026-05-12|2026-05-19
+Quiet|Gillian Flynn|1979|Non-Fiction|Philosophy|867|1|2025-08-07|||
+The Seven Husbands of Evelyn Hugo|CS Lewis|1943|Non-Fiction|Technology|868|0|2026-02-13|Fiona Gallagher|2026-04-22|2026-04-29
+The Hobbit|Leo Tolstoy|1945|Fiction|SliceOfLife|869|0|2025-10-21|Fiona Gallagher|2026-05-12|2026-05-19
+Neverwhere|Walter Isaacson|1935|Non-Fiction|History|870|0|2025-07-21|Edward Norton|2026-04-22|2026-04-29
+The Martian|Delia Owens|1941|Fiction|HistoricalFiction|871|1|2026-05-06|||
+Moby Dick|Donna Tartt|2002|Fiction|Romance|872|1|2025-05-31|||
+Dune|Harper Lee|1969|Fiction|YoungAdult|873|0|2026-02-02|Fiona Gallagher|2026-05-12|2026-05-19
+Alias Grace|Brandon Sanderson|1952|Fiction|Thriller|874|1|2025-12-29|||
+The Poisonwood Bible|Alex Michaelides|1986|Non-Fiction|Travel|875|1|2025-06-15|||
+No Country for Old Men|Lucy Foley|1988|Fiction|Dystopian|876|1|2025-06-09|||
+Malibu Rising|Erin Morgenstern|1949|Non-Fiction|Politics|877|1|2026-02-07|||
+Circe|Joe Abercrombie|1990|Non-Fiction|Biography|878|1|2026-04-21|||
+To Kill a Mockingbird|William Gibson|2000|Non-Fiction|Travel|879|1|2026-04-11|||
+The Maidens|Jane Austen|1960|Fiction|Action|880|0|2026-01-18|George Costanza|2026-05-12|2026-05-19
+Wild|Jane Austen|1987|Fiction|Mystery|881|0|2025-09-15|Edward Norton|2026-05-12|2026-05-19
+Where the Crawdads Sing|JD Salinger|1966|Fiction|SciFi|882|0|2026-02-09|Charlie Brown|2026-04-22|2026-04-29
+The Maidens|Taylor Jenkins Reid|1988|Non-Fiction|Other|883|0|2025-07-26|Bob Jones|2026-04-22|2026-04-29
+The Odyssey|Tara Westover|1973|Non-Fiction|Other|884|1|2025-06-12|||
+The Brothers Karamazov|Charlotte Bronte|1986|Non-Fiction|Technology|885|1|2026-02-13|||
+Brave New World|Aldous Huxley|2023|Fiction|Thriller|886|1|2025-11-28|||
+Crime and Punishment|Frank Herbert|1920|Fiction|Crime|887|0|2026-03-06|Bob Jones|2026-05-12|2026-05-19
+The Glass Castle|Khaled Hosseini|2009|Fiction|Mystery|888|1|2025-11-10|||
+A Farewell to Arms|Harper Lee|1920|Non-Fiction|Biography|889|0|2026-05-03|Bob Jones|2026-05-03|2026-05-10
+Artemis|Ray Bradbury|2022|Fiction|Action|890|0|2025-06-30|Edward Norton|2026-05-12|2026-05-19
+Mistborn|Stieg Larsson|1979|Fiction|Fantasy|891|1|2026-04-03|||
+Educated|Herman Melville|1933|Non-Fiction|History|892|0|2025-05-31|Fiona Gallagher|2026-05-12|2026-05-19
+The Gene|Carl Sagan|2022|Fiction|Drama|893|1|2026-05-06|||
+Elon Musk|Paulo Coelho|1959|Non-Fiction|Religion|894|0|2025-11-15|Bob Jones|2026-05-12|2026-05-19
+No Country for Old Men|Brandon Sanderson|1951|Fiction|Mystery|895|0|2026-05-02|Bob Jones|2026-05-12|2026-05-19
+The Da Vinci Code|Walter Isaacson|1928|Non-Fiction|Memoir|896|1|2025-08-28|||
+Normal People|Markus Zusak|2015|Non-Fiction|Psychology|897|1|2025-12-04|||
+The Lord of the Rings|Liane Moriarty|1988|Non-Fiction|Biography|898|0|2025-06-12|Fiona Gallagher|2026-05-12|2026-05-19
+The Old Man and the Sea|Erin Morgenstern|1922|Non-Fiction|Memoir|899|1|2025-12-01|||
+The Lost Symbol|Alex Michaelides|1996|Fiction|Fantasy|900|0|2025-12-12|George Costanza|2026-05-12|2026-05-19
+Blood Meridian|JD Salinger|1994|Fiction|YoungAdult|901|1|2025-09-01|||
+The Left Hand of Darkness|JD Salinger|1964|Fiction|Crime|902|1|2025-10-21|||
+The Iliad|Sally Rooney|1966|Fiction|Mystery|903|1|2025-12-19|||
+Blood Meridian|Margaret Atwood|1980|Fiction|Adventure|904|1|2025-06-07|||
+To Kill a Mockingbird|Walter Isaacson|1955|Fiction|HistoricalFiction|905|0|2025-11-08|George Costanza|2026-05-12|2026-05-19
+The Secret History|Richard Powers|1935|Fiction|Mystery|906|0|2025-06-06|Charlie Brown|2026-05-12|2026-05-19
+Gone Girl|Dan Brown|1909|Non-Fiction|Economics|907|1|2025-06-21|||
+The Name of the Wind|Walter Isaacson|1985|Non-Fiction|Technology|908|0|2025-05-31|Fiona Gallagher|2026-05-12|2026-05-19
+Stardust|Erin Morgenstern|1988|Non-Fiction|Psychology|909|1|2026-02-25|||
+The Grapes of Wrath|F. Scott Fitzgerald|1914|Non-Fiction|Technology|910|1|2026-05-06|||
+Great Expectations|Fyodor Dostoevsky|1936|Fiction|HistoricalFiction|911|1|2025-12-23|||
+To Kill a Mockingbird|Margaret Atwood|1933|Non-Fiction|History|912|1|2026-03-23|||
+A Little Life|Margaret Atwood|1995|Non-Fiction|Other|913|1|2025-05-31|||
+Project Hail Mary|JRR Tolkien|1965|Fiction|HistoricalFiction|914|0|2025-08-25|Bob Jones|2026-04-22|2026-04-29
+The Grapes of Wrath|Stieg Larsson|1912|Fiction|Fantasy|915|1|2025-08-22|||
+Origin|George RR Martin|2008|Fiction|Dystopian|916|1|2025-09-14|||
+Quiet|Andy Weir|1972|Fiction|Adventure|917|0|2026-03-02|Charlie Brown|2026-05-12|2026-05-19
+The Hunting Party|Paulo Coelho|1978|Non-Fiction|Education|918|1|2025-12-17|||
+Slaughterhouse-Five|Fyodor Dostoevsky|1924|Non-Fiction|Politics|919|1|2025-07-11|||
+Jane Eyre|Daniel Kahneman|1951|Fiction|Action|920|1|2025-11-07|||
+No Country for Old Men|William Gibson|2024|Fiction|Romance|921|0|2025-09-27|Diana Prince|2026-05-12|2026-05-19
+The Odyssey|Homer|2024|Non-Fiction|Autobiography|922|0|2026-04-20|Edward Norton|2026-05-12|2026-05-19
+The Little Prince|F. Scott Fitzgerald|1952|Non-Fiction|Health|923|0|2025-10-02|Alice Smith|2026-05-12|2026-05-19
+The Name of the Wind|George RR Martin|1935|Non-Fiction|Science|924|1|2026-01-04|||
+Artemis|Harper Lee|1989|Fiction|SciFi|925|0|2026-03-01|George Costanza|2026-05-12|2026-05-19
+Great Expectations|Lucy Foley|2016|Non-Fiction|Other|926|1|2026-01-17|||
+Sharp Objects|George RR Martin|1906|Fiction|Crime|927|1|2025-10-16|||
+Cats Cradle|Jane Austen|1941|Fiction|Mystery|928|0|2026-03-23|Alice Smith|2026-05-12|2026-05-19
+Conversations with Friends|JRR Tolkien|1990|Fiction|Mystery|929|1|2025-10-16|||
+The Catcher in the Rye|Lucy Foley|1979|Non-Fiction|Biography|930|1|2026-01-03|||
+No Country for Old Men|Markus Zusak|1969|Non-Fiction|Health|931|1|2026-02-24|||
+The Brothers Karamazov|Hanya Yanagihara|1972|Non-Fiction|Politics|932|1|2025-12-23|||
+Life of Pi|Stieg Larsson|1932|Fiction|SciFi|933|1|2025-12-29|||
+Malibu Rising|Jane Austen|1922|Fiction|Adventure|934|0|2025-10-15|Bob Jones|2026-05-12|2026-05-19
+The Odyssey|George RR Martin|1958|Fiction|Mystery|935|0|2025-08-11|Charlie Brown|2026-05-12|2026-05-19
+Origin|Walter Isaacson|2003|Non-Fiction|Technology|936|1|2025-11-30|||
+Daisy Jones and The Six|Barbara Kingsolver|1934|Fiction|Other|937|1|2025-06-10|||
+The Blind Assassin|Isaac Asimov|1974|Non-Fiction|Education|938|1|2025-10-29|||
+Quiet|F. Scott Fitzgerald|1959|Fiction|HistoricalFiction|939|1|2026-04-10|||
+Dark Places|George RR Martin|2013|Non-Fiction|Religion|940|0|2025-07-10|George Costanza|2026-05-12|2026-05-19
+Brave New World|John Steinbeck|2005|Fiction|Horror|941|1|2026-02-13|||
+Oryx and Crake|Aldous Huxley|1920|Fiction|Mystery|942|0|2025-05-28|Bob Jones|2026-05-12|2026-05-19
+Neverwhere|Harper Lee|1917|Fiction|Other|943|1|2025-10-18|||
+Wuthering Heights|Gillian Flynn|2016|Non-Fiction|Health|944|0|2025-10-22|Diana Prince|2026-05-12|2026-05-19
+The Silent Patient|Kurt Vonnegut|1902|Fiction|Romance|945|1|2025-06-21|||
+The Odyssey|Lucy Foley|1977|Fiction|Horror|946|1|2026-04-11|||
+The Sun Also Rises|Neil Gaiman|1954|Fiction|Adventure|947|0|2025-08-13|Diana Prince|2026-05-12|2026-05-19
+The Chronicles of Narnia|Hanya Yanagihara|1976|Fiction|Crime|948|1|2026-04-08|||
+The Silent Patient|Tara Westover|1980|Fiction|Other|949|1|2025-08-07|||
+The Sirens of Titan|CS Lewis|2014|Fiction|YoungAdult|950|0|2025-09-26|Edward Norton|2026-05-12|2026-05-19
+Fahrenheit 451|Neil Gaiman|1904|Non-Fiction|Religion|951|0|2026-01-06|Diana Prince|2026-05-12|2026-05-19
+H Is for Hawk|John Steinbeck|2010|Fiction|Horror|952|1|2026-01-11|||
+Circe|Dan Brown|1904|Non-Fiction|Philosophy|953|1|2025-07-28|||
+Where the Crawdads Sing|Madeline Miller|2017|Fiction|Drama|954|1|2025-05-22|||
+Sharp Objects|Delia Owens|1950|Non-Fiction|Biography|955|0|2025-11-29|Diana Prince|2026-05-12|2026-05-19
+Where the Crawdads Sing|Erin Morgenstern|1917|Non-Fiction|Psychology|956|1|2025-06-16|||
+Oryx and Crake|Delia Owens|1945|Non-Fiction|Religion|957|1|2025-12-20|||
+Crime and Punishment|Khaled Hosseini|1980|Fiction|Thriller|958|1|2026-03-01|||
+Project Hail Mary|Donna Tartt|1981|Fiction|SciFi|959|1|2025-07-26|||
+The Brothers Karamazov|Isaac Asimov|1986|Fiction|Fantasy|960|1|2025-11-21|||
+Atomic Habits|Aldous Huxley|1950|Non-Fiction|Autobiography|961|1|2025-09-24|||
+The Way of Kings|John Steinbeck|1975|Fiction|Mystery|962|0|2025-05-17|Edward Norton|2026-05-12|2026-05-19
+American Gods|Andy Weir|1900|Non-Fiction|Autobiography|963|0|2025-10-08|Bob Jones|2026-05-12|2026-05-19
+To Kill a Mockingbird|F. Scott Fitzgerald|1984|Non-Fiction|Autobiography|964|1|2026-02-22|||
+The Girl with the Dragon Tattoo|Daniel Kahneman|1912|Fiction|SliceOfLife|965|0|2026-04-18|Edward Norton|2026-05-12|2026-05-19
+The Seven Husbands of Evelyn Hugo|Frank Herbert|1928|Non-Fiction|Biography|966|1|2025-12-15|||
+Origin|Jane Austen|1959|Fiction|HistoricalFiction|967|1|2025-09-24|||
+The Silent Patient|George Orwell|1918|Non-Fiction|Philosophy|968|1|2025-07-30|||
+Conversations with Friends|CS Lewis|2012|Non-Fiction|Other|969|1|2025-07-06|||
+A Game of Thrones|Hanya Yanagihara|1903|Fiction|Mystery|970|0|2026-04-23|Diana Prince|2026-05-12|2026-05-19
+Deep Work|James Clear|1970|Fiction|Thriller|971|1|2026-04-22|||
+Homo Deus|Charles Dickens|1989|Fiction|Adventure|972|0|2025-07-05|Alice Smith|2026-05-12|2026-05-19
+Educated|George Orwell|1902|Non-Fiction|Education|973|1|2026-01-04|||
+The Sun Also Rises|Leo Tolstoy|1919|Fiction|Mystery|974|1|2025-11-09|||
+The Da Vinci Code|Ray Bradbury|1946|Non-Fiction|Biography|975|1|2025-12-05|||
+Quiet|Frank Herbert|1953|Non-Fiction|Economics|976|1|2026-04-05|||
+The Goldfinch|Patrick Rothfuss|1914|Non-Fiction|Economics|977|1|2026-03-28|||
+The Guest List|Kurt Vonnegut|2005|Non-Fiction|TrueCrime|978|0|2026-03-05|George Costanza|2026-04-22|2026-04-29
+Breakfast of Champions|Sally Rooney|1971|Fiction|Dystopian|979|1|2026-01-11|||
+The Goldfinch|Daniel Kahneman|1931|Fiction|SliceOfLife|980|1|2025-11-17|||
+The Left Hand of Darkness|Delia Owens|1974|Fiction|Thriller|981|0|2025-11-18|George Costanza|2026-04-22|2026-04-29
+Crime and Punishment|Liane Moriarty|2019|Fiction|Adventure|982|1|2025-09-29|||
+The Hunting Party|Charles Dickens|1917|Non-Fiction|TrueCrime|983|1|2025-12-09|||
+The Grapes of Wrath|Alex Michaelides|1920|Fiction|Mystery|984|1|2025-05-19|||
+Thinking Fast and Slow|John Steinbeck|1913|Non-Fiction|Biography|985|0|2025-08-26|Bob Jones|2026-05-12|2026-05-19
+Steve Jobs|JRR Tolkien|1965|Non-Fiction|Science|986|0|2026-04-07|Alice Smith|2026-05-12|2026-05-19
+The Kite Runner|Neil Gaiman|1905|Fiction|Action|987|1|2025-05-16|||
+The Kite Runner|Erin Morgenstern|2023|Fiction|Drama|988|1|2026-05-04|||
+Oryx and Crake|Aldous Huxley|1922|Fiction|YoungAdult|989|1|2026-01-28|||
+The Sirens of Titan|Erin Morgenstern|1939|Fiction|Fantasy|990|0|2025-11-28|Edward Norton|2026-05-12|2026-05-19
+The Goldfinch|Carl Sagan|1970|Fiction|YoungAdult|991|0|2025-07-05|Charlie Brown|2026-05-12|2026-05-19
+Daisy Jones and The Six|Carl Sagan|1917|Fiction|Other|992|0|2026-05-06|George Costanza|2026-05-12|2026-05-19
+Fahrenheit 451|Dan Brown|1981|Non-Fiction|Memoir|993|0|2026-02-12|Fiona Gallagher|2026-05-12|2026-05-19
+Artemis|Brandon Sanderson|1936|Fiction|Thriller|994|0|2026-03-23|George Costanza|2026-05-12|2026-05-19
+Great Expectations|Ray Bradbury|1909|Non-Fiction|Biography|995|1|2025-06-23|||
+Deep Work|Andy Weir|1970|Fiction|Crime|996|1|2026-01-31|||
+1984|Andy Weir|2021|Non-Fiction|Education|997|1|2025-12-10|||
+The Guest List|Kurt Vonnegut|2005|Non-Fiction|Other|998|1|2025-12-15|||
+Moby Dick|Delia Owens|1950|Fiction|Crime|999|1|2025-09-15|||
+The Odyssey|Ernest Hemingway|1995|Non-Fiction|Travel|1000|1|2026-04-06|||

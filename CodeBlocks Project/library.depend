@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1778404373 source:c:\users\nocsf1\desktop\library\main.cpp
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
